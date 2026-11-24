@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 4.32,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.73150634765625,
+  "rms": 0.12938756151663688,
+  "sha256": "ed9d14e62d58e356b26daddbf0028b26a14ee948d947bbb8c70ca60634817dc0",
+  "clip_id": "ta_030_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1367,
+  "generated_at_utc": "2026-11-08T09:25:57.705872+00:00",
+  "raw_sha256": "7e74487010c075dd1b9badf732effc50802ea59ad9551da755ba5a5c5ad1a1f5",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

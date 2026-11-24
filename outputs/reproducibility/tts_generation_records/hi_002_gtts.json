@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.808,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.46728515625,
+  "rms": 0.09875036656110424,
+  "sha256": "105bc6ba13a55e7bc279ddc820c18dab2cd2fce129f184ef72f140a18ba843f1",
+  "clip_id": "hi_002_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "इस पेड़ का फल बहुत मीठा है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:49.029124+00:00",
+  "raw_sha256": "8f3b27817eddd281d37d2d94f200881da192a1705766c1d2027330123b247788",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.792,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.521881103515625,
+  "rms": 0.1141457736866233,
+  "sha256": "daf755b65cacf8ba95a64290c37328871f4bc715ad1056c975348b75a1088632",
+  "clip_id": "hi_023_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "मेरी बहन शाम को पुस्तकालय से वापस आएगी।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:11.687810+00:00",
+  "raw_sha256": "4f8eb89c8033986b0926324373009e5ed7189648fb497d86c26d81de7c443e1c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

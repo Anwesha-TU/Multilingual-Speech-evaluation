@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.96,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.886138916015625,
+  "rms": 0.15183847565630215,
+  "sha256": "2c0dbe3a5a4d5ce45707986c326ee53cd98c8fe705c5f9989ddb5699adb80fcf",
+  "clip_id": "hi_011_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "इस डिब्बे में दस रंगीन पेंसिल हैं।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1348,
+  "generated_at_utc": "2026-11-08T09:24:28.472440+00:00",
+  "raw_sha256": "ff412d0979fe43ce1759edf1ee6dae5ae0e3fa027f6918af56807ed7f4a1b814",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

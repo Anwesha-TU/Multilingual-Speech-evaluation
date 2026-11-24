@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.88,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.637847900390625,
+  "rms": 0.12969056849081886,
+  "sha256": "5095ae9d2eeb9ec4f57f1b57da7cfeade98f7286f159e96dd4cc1853306e6c5e",
+  "clip_id": "ta_007_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1344,
+  "generated_at_utc": "2026-11-08T09:25:13.786770+00:00",
+  "raw_sha256": "e8912ac1d0993738eb2796f5e71a82d217d43d2fbea820569310f206ddc7ab79",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

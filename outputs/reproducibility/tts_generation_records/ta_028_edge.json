@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.904,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.457427978515625,
+  "rms": 0.08768816904159782,
+  "sha256": "75900385ad7e19c324616daf1ea8383b6ac677617f479c5fe3d2b387ce40fd03",
+  "clip_id": "ta_028_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "இந்த சாலை நேராக சந்தைக்குச் செல்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:35.027044+00:00",
+  "raw_sha256": "2c46f66a70086ec0d58e04e745c70a58eae261fc7eb3f119ce7d7adf245c5475",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

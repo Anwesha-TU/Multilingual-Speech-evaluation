@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.976,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.3853759765625,
+  "rms": 0.1178156863412969,
+  "sha256": "d694604488096dce5009e30be318a831ce2db1c62c402b23133e480673bf0bcb",
+  "clip_id": "ta_021_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "இன்று வானம் தெளிவாக இருக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:43.971879+00:00",
+  "raw_sha256": "f7b89750142083729eb5ebdd41f4f013e90cc09771543ad98770af9de1c81edf",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

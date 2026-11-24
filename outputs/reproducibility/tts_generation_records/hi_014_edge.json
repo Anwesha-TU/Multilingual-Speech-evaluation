@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.552,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.749755859375,
+  "rms": 0.1489822558855388,
+  "sha256": "d2cc45344a75d6e8ff9c4b6280e31b869cc38ed1a52b3f4e7131f19c8d27c47b",
+  "clip_id": "hi_014_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "ठंड लगने पर दादी ने शाल ओढ़ ली।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:10.559555+00:00",
+  "raw_sha256": "c5d8775c347fedae2441a9fdd84014884c7d5b36a52fe091b1ab6027cbcea2ab",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

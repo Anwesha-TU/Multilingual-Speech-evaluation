@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.0,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.47314453125,
+  "rms": 0.0760070540132179,
+  "sha256": "d36e173c3374f9ecd542f822312a092296dc9db86d3daea7a6c6115ed22f39cd",
+  "clip_id": "ta_020_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "ஒரு நல்ல பாடல் பாடு என்று அவன் கேட்டான்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:19.089193+00:00",
+  "raw_sha256": "091780b840ea001add7da6d5b4bc3c7565a4e3d4115970ceb6d8d183c05dc8c8",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

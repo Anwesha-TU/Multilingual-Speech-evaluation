@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.36,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.7056884765625,
+  "rms": 0.12873707759035288,
+  "sha256": "8c8782f2841b9fbdb67ff8df7f8feb00a1d1715e48e8c9b43f74d5801905a48c",
+  "clip_id": "ta_018_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "இந்த பாட்டு எனக்கு மிகவும் பிடிக்கும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1355,
+  "generated_at_utc": "2026-11-08T09:25:34.369005+00:00",
+  "raw_sha256": "32a65d5ecd54c1925654bf435c6178123de3f74d6fd59f1417a937964728f35e",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

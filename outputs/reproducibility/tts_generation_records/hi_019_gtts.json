@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.12,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.479278564453125,
+  "rms": 0.10429415658913596,
+  "sha256": "e371761c900447498d082cb32fa161682922cdde76ff0cb7aaafedbd13b540d9",
+  "clip_id": "hi_019_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "एक बैल धीरे धीरे खेत की ओर चला।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:07.101404+00:00",
+  "raw_sha256": "c5fadcf05772f488af950b25689f7fdb05d2d7f8c40f38d5dc6f5b47dbd75467",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

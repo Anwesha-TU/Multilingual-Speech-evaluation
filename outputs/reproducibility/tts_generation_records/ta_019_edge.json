@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.88,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.42010498046875,
+  "rms": 0.08427096534690115,
+  "sha256": "00d3296f2d5796d0c9bf4bb0a28ffb1aa93a273b1d2a84c60d277845148a93d3",
+  "clip_id": "ta_019_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "நீ சிறிது நேரம் படு என்று அம்மா சொன்னார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:17.130080+00:00",
+  "raw_sha256": "2ca8264317fb0b1eaa5a1aee6a4f1d158d59c2c239682a3a96cbb8fb25865822",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

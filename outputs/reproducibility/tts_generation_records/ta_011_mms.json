@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.312,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.681854248046875,
+  "rms": 0.13576063181040202,
+  "sha256": "bc930c7a3c64392d2e8619f89dc072c84a73635bd637f75237c1be68dea5ca1f",
+  "clip_id": "ta_011_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "காலையில் புல்லின் மேல் பனி படிந்திருந்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1348,
+  "generated_at_utc": "2026-11-08T09:25:21.614960+00:00",
+  "raw_sha256": "548f15704e7ac1d62861a7fee6794afe735f3ff813ce7d916058173992f19a9c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

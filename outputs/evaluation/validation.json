@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "reviews_accepted": 422,
+  "rows_excluded": 58,
+  "missing_tamil_second_reviews": 58,
+  "checks": [
+    "Latest four input files preserved byte-for-byte",
+    "62 original Tamil rows identical to previous export",
+    "58 excluded rows copy Set 1 exactly and have no listener identity",
+    "main.py --human-evaluation runs in original project",
+    "Repeated run produces identical CSVs",
+    "Results match previous independently validated metrics",
+    "720 model predictions and all model-scoring modules unchanged",
+    "main.py --help succeeds without loading models",
+    "Submission results matches current results",
+    "Test ZIP integrity verified; PDF copied from visually checked four-content-page report"
+  ],
+  "unresolved": [
+    "Genuine second reviews for 58 Tamil clips",
+    "Separate approved baseline outputs",
+    "Qualifying pairwise-ranking coverage",
+    "Native verification of human scripts",
+    "Recording permission and redistribution rights",
+    "Team-wide Parts 1-3 merge"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.72,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.782379150390625,
+  "rms": 0.158635108133575,
+  "sha256": "d694f3867a38d645a58f365aa4dd16a954db6847b15e1dbd3b7ab74a23f906de",
+  "clip_id": "hi_005_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "उन्होंने विद्यालय के लिए धन का दान किया।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:55.480733+00:00",
+  "raw_sha256": "308abd13111a3ce82d3582b918d1d4ed64f20f2f2ed6030f1233b1e0b30ce346",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

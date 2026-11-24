@@ -1,0 +1,13 @@
+language,measure,available_two_ratings,usable,required,qualified,reason
+hi,agreement_naturalness,120,68,30,True,"Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+hi,agreement_pronunciation,120,84,30,True,"Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+hi,agreement_speaker_similarity,120,89,30,True,"Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+hi,word_identification,80,73,10,True,"Only identical actual heard-word labels, including unclear"
+hi,pairwise_ranking_naturalness,90,8,10,False,90 reference-eligible; 13 same-real-rater pairs; then strict agreement
+hi,pairwise_ranking_speaker_similarity,90,0,10,False,0 reference-eligible; 0 same-real-rater pairs; then strict agreement
+ta,agreement_naturalness,62,49,30,True,"Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+ta,agreement_pronunciation,62,53,30,True,"Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+ta,agreement_speaker_similarity,62,52,30,True,"Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+ta,word_identification,38,34,10,True,"Only identical actual heard-word labels, including unclear"
+ta,pairwise_ranking_naturalness,24,3,10,False,24 reference-eligible; 11 same-real-rater pairs; then strict agreement
+ta,pairwise_ranking_speaker_similarity,24,0,10,False,0 reference-eligible; 0 same-real-rater pairs; then strict agreement

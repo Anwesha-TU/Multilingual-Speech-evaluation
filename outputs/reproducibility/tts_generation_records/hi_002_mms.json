@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.4,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.89385986328125,
+  "rms": 0.11815761769938805,
+  "sha256": "5f986263b188bd1f9887e87af16f637a416ba6af24b358c3846cfe23b4b3f100",
+  "clip_id": "hi_002_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "इस पेड़ का फल बहुत मीठा है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1339,
+  "generated_at_utc": "2026-11-08T09:24:15.796164+00:00",
+  "raw_sha256": "323cf261e8b044abd301ae4506fc9abe37400f903d1977a780f914e8345bccb9",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

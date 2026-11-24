@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.568,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.486419677734375,
+  "rms": 0.08008216936665864,
+  "sha256": "3280b505b78a29014b0f71d9eb3dee25bb8018df9e11d6af701d669f4154c2c0",
+  "clip_id": "ta_003_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "பாதையில் ஒரு பெரிய கல் கிடக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:45.197017+00:00",
+  "raw_sha256": "54e4cab0f225c11ce5bead770426b320eb36d50053eabdde6027b90d267ed97d",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

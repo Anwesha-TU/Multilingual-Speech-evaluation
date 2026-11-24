@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.144,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.564178466796875,
+  "rms": 0.10871570072407905,
+  "sha256": "a96845aad8e15d6100a1e806b0e06415a3d16095787b0f5b47916c7b94704d44",
+  "clip_id": "hi_003_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "बच्चे ढोल की ताल पर नाच रहे हैं।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:50.047116+00:00",
+  "raw_sha256": "fc1c4da89934bc59393f543d6eadca773a382e48f08b0c252800c86565407f84",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

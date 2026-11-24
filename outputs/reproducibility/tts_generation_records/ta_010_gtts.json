@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.552,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.372406005859375,
+  "rms": 0.1130867062634946,
+  "sha256": "ff01076930ab73634efcf6aa3877dfe5d1447b1a639bdc7c527ad947d51b31d3",
+  "clip_id": "ta_010_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "என் சட்டையில் ஒரு சிறிய கறை உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:29.715084+00:00",
+  "raw_sha256": "bf3b8362d9a0432a3aa90749c1805a9d172d81cb3ed098755e7eff1d7aa2eed3",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.888,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.797454833984375,
+  "rms": 0.15075740716810362,
+  "sha256": "bd928689ff8cb8049db16255cb9d928fa43960be39f51fb71d5e6b3d93e9de97",
+  "clip_id": "hi_024_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "हम सब रविवार को मिलकर खाना बनाएँगे।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:30.578461+00:00",
+  "raw_sha256": "1e2e3e89c9a63bf382c396a4b746b30c244fbe62f3b424c9e67d8848d1085960",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.104,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.680145263671875,
+  "rms": 0.11979511842899745,
+  "sha256": "c65b82646f9b95aa945482591da5e4ecf8f7b5be52b8b7be5f3184823c5bc7fe",
+  "clip_id": "ta_005_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "இந்த குடம் முழுவதும் தண்ணீர் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1342,
+  "generated_at_utc": "2026-11-08T09:25:10.211982+00:00",
+  "raw_sha256": "08a0a12fb5e66161170e791b9078923f02200ef88d123bbd298cac7b283b5f77",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

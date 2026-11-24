@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.0,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.498077392578125,
+  "rms": 0.09091020469914012,
+  "sha256": "f7c438be4ce0d1ed7946c5d9171173745070d86051a669b79abdb09c73cd8b2d",
+  "clip_id": "ta_008_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "அம்மா பழங்களை ஒரு கூடை நிறைய வாங்கினார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:55.084605+00:00",
+  "raw_sha256": "7cd1a1297a3ec6867e0842def6b83cf70e10eaf4976bea5cfe215a0cdfd70378",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

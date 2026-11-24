@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.4,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.56640625,
+  "rms": 0.08267009159559913,
+  "sha256": "7fb3b70f252c51b5c5e41a9abf3c7e45384e7f9963fc6dc34be1f2039a95dd9f",
+  "clip_id": "ta_014_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "வீரன் தனது வாள் கொண்டு போரிட்டான்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:07.757572+00:00",
+  "raw_sha256": "d91236ea833cc680c7d3c122e85b4b20f430e88a8f73a064293e27640fef64f9",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

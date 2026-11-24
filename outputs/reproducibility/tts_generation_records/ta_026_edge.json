@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.688,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.439727783203125,
+  "rms": 0.09350991970910655,
+  "sha256": "7a7d151df1feb084cbea35c4ace8b6fb07a564ef07be871cbea432435a5346af",
+  "clip_id": "ta_026_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "பேருந்து வர இன்னும் சிறிது நேரம் ஆகும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:30.878000+00:00",
+  "raw_sha256": "b837fb86830e6c010e9beb53b16fe1b9754252e3cb457e787b499c84a2fcac3f",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

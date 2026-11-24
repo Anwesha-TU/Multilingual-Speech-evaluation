@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.904,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.48583984375,
+  "rms": 0.12048074284663647,
+  "sha256": "a021a9463f01c961b2fd8e5be5d3df5be6c1398f996227d685305e62bb0f75e6",
+  "clip_id": "hi_001_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "यह पल मुझे हमेशा याद रहेगा।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:30.604466+00:00",
+  "raw_sha256": "5897113c9803d0b980d402b3c6ca8cb798b75e94eb551baa3a8296e589f9bb7c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

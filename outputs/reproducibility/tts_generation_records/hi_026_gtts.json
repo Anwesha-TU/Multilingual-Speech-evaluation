@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.072,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.4327392578125,
+  "rms": 0.10729535060302652,
+  "sha256": "6bd5b9f635f9d6ff2ab96a3d4173d092b3fa01077764cd1b87dfa247794b82e9",
+  "clip_id": "hi_026_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "बस आने में अभी थोड़ा समय लगेगा।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:14.955286+00:00",
+  "raw_sha256": "282b84b8b5906cd336ea97c3d238ec5a2ae474c4ca2f60d771142211212f8951",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

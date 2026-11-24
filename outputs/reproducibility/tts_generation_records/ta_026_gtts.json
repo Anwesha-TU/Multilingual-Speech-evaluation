@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.408,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.406463623046875,
+  "rms": 0.11723466912291863,
+  "sha256": "8dbb13f6c1161e9a3c80dabca71a0a23e6a517e01080dadb4674589ba7fea890",
+  "clip_id": "ta_026_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "பேருந்து வர இன்னும் சிறிது நேரம் ஆகும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:49.946445+00:00",
+  "raw_sha256": "35173fa0aa8c35835a39f24753a4e9a64a03ecf92a5852c6a8520826ded90b98",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

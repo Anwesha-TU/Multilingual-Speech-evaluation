@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.048,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.624053955078125,
+  "rms": 0.08359295050079452,
+  "sha256": "5b024f56e7f9bf198f9ec7b18de28a864a53047296efb391c9b406a6afcf32a2",
+  "clip_id": "ta_017_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "அவள் அழகான பட்டு புடவை அணிந்திருந்தாள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:13.418850+00:00",
+  "raw_sha256": "ffc75ee3676540544e316f299aeee9803e60d1105b3f0caee49104348326d6b0",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

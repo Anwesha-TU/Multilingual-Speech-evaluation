@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.264,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.6680908203125,
+  "rms": 0.14954424738178365,
+  "sha256": "0cd3c79ec784a71cc2457bb84be121f78330d448a7cdb9013c2ff0fe91121c1d",
+  "clip_id": "ta_022_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "தயவுசெய்து கதவை மெதுவாக மூடுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1359,
+  "generated_at_utc": "2026-11-08T09:25:41.781357+00:00",
+  "raw_sha256": "c5ec2107d28c82f2f85fe82ca4022a05856c58476a6f95c1f6e739252be2e89f",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

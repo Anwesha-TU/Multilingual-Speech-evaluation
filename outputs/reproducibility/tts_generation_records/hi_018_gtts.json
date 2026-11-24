@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.096,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.544525146484375,
+  "rms": 0.13848581668333393,
+  "sha256": "d02d642649e8ffd4f0daf87d10989a34e350e9a4852a6fe3023d1ff6a9b849af",
+  "clip_id": "hi_018_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "हमें दीन लोगों की मदद करनी चाहिए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:06.085090+00:00",
+  "raw_sha256": "b35bdf9b9bf48b540a0ad65a3c588404d3ce3fc48b6e136771fd69aefbf3b3c5",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

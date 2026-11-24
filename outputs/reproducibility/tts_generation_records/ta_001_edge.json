@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.712,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.48553466796875,
+  "rms": 0.07857611234369924,
+  "sha256": "b5f0efa75eca7fabf910544b654b3984618eff54f567d10a96303cca0849769c",
+  "clip_id": "ta_001_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "என் பல் இன்று மிகவும் வலிக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:00.744212+00:00",
+  "raw_sha256": "6f974b73a0f5c963728a843e76d08bc56636ed84f2b254f15e204f4bdc1e7855",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

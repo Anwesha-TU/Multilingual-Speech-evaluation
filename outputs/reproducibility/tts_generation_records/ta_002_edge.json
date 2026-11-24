@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.352,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.570281982421875,
+  "rms": 0.09129419003558788,
+  "sha256": "d9a1e440c433c783d81428371fe20ac57b567ebadbe50167cd813442e719978e",
+  "clip_id": "ta_002_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "குழந்தை காலையில் பால் குடித்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:42.972290+00:00",
+  "raw_sha256": "20ac516cee605fef2a908f0d4fab882db60b62aca1b43569daed52569c1cbf79",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

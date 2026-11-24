@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.904,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.57000732421875,
+  "rms": 0.09121912087779473,
+  "sha256": "11f29c6911f877b0042fd8e1745704fd2445cb72fadd2459b4fe9bcc47d39072",
+  "clip_id": "ta_029_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "காலையில் தேநீர் குடிக்க எனக்குப் பிடிக்கும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:37.278251+00:00",
+  "raw_sha256": "5b278f5b0487b663f257f73980f8c88caad5454f7da97b4b4a0b1292f913c690",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

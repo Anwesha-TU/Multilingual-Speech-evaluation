@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.128,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.507476806640625,
+  "rms": 0.11045771601742654,
+  "sha256": "825cd40859d881330fff6541580c70a124293f84afbaeb690719c57039e529f7",
+  "clip_id": "hi_030_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "धीरे बोलिए ताकि सभी लोग आपकी आवाज सुन सकें।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:19.461372+00:00",
+  "raw_sha256": "36fd772cb0db06b92a005b48ae2c5f5c666541a805c37e0426fb9246d11b3b33",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.568,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.564697265625,
+  "rms": 0.08622758920829364,
+  "sha256": "bc797670d6a6f9a1c84a82b39f939224cedf06b476b9b6ee8a6b8e43ff8cc1b9",
+  "clip_id": "ta_016_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "இன்று மாலை நாம் கடைக்குச் செல்லலாம்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:11.560988+00:00",
+  "raw_sha256": "0e666ca2a346aa65906ddd0a1d7823fc0cf3b003ac7267f7e167f36783242e31",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

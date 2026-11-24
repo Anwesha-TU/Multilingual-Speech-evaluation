@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.816,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.378173828125,
+  "rms": 0.1047872663446713,
+  "sha256": "48e55dc65478c47330b00ebac3cf751ae0a7c051a3804d780b9277bb659a4a87",
+  "clip_id": "ta_020_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "ஒரு நல்ல பாடல் பாடு என்று அவன் கேட்டான்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:42.955110+00:00",
+  "raw_sha256": "2f7d790209765ba0dbc09e0f0b6f1d549390d4fdd7905620a4e893905a576643",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

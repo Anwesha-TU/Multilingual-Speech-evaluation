@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.264,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.3905029296875,
+  "rms": 0.12447922612698102,
+  "sha256": "298dae1261f1c22fef98e474e7d66f39f967ada3500052d0e7ce8e0be459fe63",
+  "clip_id": "ta_005_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "இந்த குடம் முழுவதும் தண்ணீர் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:23.340993+00:00",
+  "raw_sha256": "4a0c6563b741eb3300c03498ab563a2795bb0742ff0bdf99e054ff954f013522",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

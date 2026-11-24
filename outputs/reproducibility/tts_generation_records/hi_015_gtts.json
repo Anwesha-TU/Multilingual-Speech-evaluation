@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.072,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.52960205078125,
+  "rms": 0.12276326504588767,
+  "sha256": "d89a3888b849773e6d63e7d69081a913f00d1a58f3a558b7f4dce2e6009cc6c7",
+  "clip_id": "hi_015_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "मछुआरे ने नदी में अपना जाल डाला।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:02.801464+00:00",
+  "raw_sha256": "0f728d206f697bf7eb31ab47a9294f56f59c4dc4bf634d7a632249d2f041fd6d",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

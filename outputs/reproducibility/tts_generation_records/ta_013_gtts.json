@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.096,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.33978271484375,
+  "rms": 0.10845430998106814,
+  "sha256": "527d8a5c68f195578e82b5cdb4840e124e5e2d68ea6267da6c7b4352211fd206",
+  "clip_id": "ta_013_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "நாயின் வால் வேகமாக அசைந்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:32.365783+00:00",
+  "raw_sha256": "cf449dab4b9a729515ecb479697546190037034962e61083963bf9a408cd6266",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

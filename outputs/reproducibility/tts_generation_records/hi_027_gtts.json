@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.528,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.703369140625,
+  "rms": 0.11263899412657707,
+  "sha256": "2361bb6fa9f647cd4a3bcca88ec561865e5fe93e721544b2b09a4a653e62192f",
+  "clip_id": "hi_027_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "बारिश रुकने के बाद बच्चे बाहर खेलने गए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:15.717535+00:00",
+  "raw_sha256": "cb8499853ed2ad5572f6eca7eed941978034921deb9a546af6492ed82e0f8848",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

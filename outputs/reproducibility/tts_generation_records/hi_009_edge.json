@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.128,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.84564208984375,
+  "rms": 0.15568710033972302,
+  "sha256": "f9f6eea18c0fd4e86334726bf0e462c12f65d79855eadb23d694384307087c87",
+  "clip_id": "hi_009_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "उसने आज एक काली कमीज पहनी है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:02.828788+00:00",
+  "raw_sha256": "14b341efb4522ed0e82d8f09835db198d3aef70a135f7e9846d6e0069e06f054",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

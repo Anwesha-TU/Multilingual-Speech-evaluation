@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.44,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.82403564453125,
+  "rms": 0.15743147434727497,
+  "sha256": "073b4234d9d0c045f1404080b0a480697c9a58014bbbcffae66c90c6a836d5b2",
+  "clip_id": "hi_025_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "क्या तुमने मेज पर रखी मेरी किताब देखी है?",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:32.359187+00:00",
+  "raw_sha256": "b1d9d71a18da980c2412e3232b7ee483287f99c3fd94a2778f739a658ab98be2",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

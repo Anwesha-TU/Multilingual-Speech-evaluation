@@ -1,0 +1,13 @@
+{
+  "tests_passed": 16,
+  "scores": 720,
+  "human_speaker_scores": 20,
+  "missing_tts_speaker_scores": 0,
+  "self_references": 0,
+  "confusion_matrix": "waiting for two independent listener labels",
+  "originals_archived": true,
+  "git_preserved": true,
+  "minimal_pair_references": "Separate utterances within same language/source-labelled voice groups, confirmed by user",
+  "complete_per_clip_predictions": true,
+  "scores_sha256": "e129c9252c6796c213a36dbb0486c020cf93bcf1a3f2730c707ccd195df32ae2"
+}

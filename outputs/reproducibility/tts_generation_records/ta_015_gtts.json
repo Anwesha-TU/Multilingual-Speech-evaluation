@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.48,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.3819580078125,
+  "rms": 0.1254978308906281,
+  "sha256": "9ce7fbf34d09489705eb0656cd31368ccbc404328a34492aea6f67f8956b7854",
+  "clip_id": "ta_015_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "அந்த மலை மீது சிறிய கோவில் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:34.363184+00:00",
+  "raw_sha256": "ef27e4204a317017facfe81ebfdb3aacd50afa454d6f8845cc6ef50c18b6a0b0",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

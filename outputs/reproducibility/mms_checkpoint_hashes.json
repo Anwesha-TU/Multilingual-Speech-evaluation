@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "file": "model.safetensors",
+    "sha256": "675b45f0c34c5f7f8c78baf0403a6afb16a3e5fac0c2740601dad877d1f5cb0c",
+    "bytes": 145253624
+  },
+  {
+    "repository": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "file": "model.safetensors",
+    "sha256": "29357e85c7f86f7725b6ff7bab78d1963899c16c2874da1db3a7d6b90f36b050",
+    "bytes": 145242872
+  }
+]

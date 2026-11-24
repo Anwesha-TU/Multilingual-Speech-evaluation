@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.8,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.803436279296875,
+  "rms": 0.1335651760610955,
+  "sha256": "0c263b2bd58de300f46cad8e22600346cf6ea7217b5c285f2ad37b4a7d9dc520",
+  "clip_id": "hi_021_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "सुबह की हवा ठंडी है और आकाश साफ है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:25.447741+00:00",
+  "raw_sha256": "c6ead249ca6b2945b3bd24005f03822a01d0b91e0dbc9cd37f2332e56755f3a6",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

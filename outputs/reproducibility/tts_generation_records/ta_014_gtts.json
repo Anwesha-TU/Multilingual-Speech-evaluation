@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.264,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.36846923828125,
+  "rms": 0.10815617427994915,
+  "sha256": "f081a161308a0adcbffe9fd1e7e306fa0c06496a766dc0f9c630c5cfab2a42d9",
+  "clip_id": "ta_014_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "வீரன் தனது வாள் கொண்டு போரிட்டான்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:33.336381+00:00",
+  "raw_sha256": "a072d07c5b13b984efdccb0776d5f073b926f6e0d4af904fd2dfd8698ed4eb43",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.776,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.712921142578125,
+  "rms": 0.11645193438086217,
+  "sha256": "a62360249e7c1d27a7688ad4645515ffe3f9c765179e7fbf0448084d8a617f1b",
+  "clip_id": "ta_029_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "காலையில் தேநீர் குடிக்க எனக்குப் பிடிக்கும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1366,
+  "generated_at_utc": "2026-11-08T09:25:55.473745+00:00",
+  "raw_sha256": "af770fa00a760b8d13efb23a2439e913caa68f92a63c81d7dd4f642dc47db2e7",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

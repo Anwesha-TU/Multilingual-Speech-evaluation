@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.264,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.34332275390625,
+  "rms": 0.10349966315250726,
+  "sha256": "edaa7975214cb91c54f970ca0adb54ddf6c2b398be11977293bac337afd71575",
+  "clip_id": "ta_018_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "இந்த பாட்டு எனக்கு மிகவும் பிடிக்கும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:40.328372+00:00",
+  "raw_sha256": "2e41afc5832601a76b041a411bfd95ea345399a5c29262b0922f9e2fdbea1f97",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

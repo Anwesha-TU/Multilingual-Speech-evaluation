@@ -1,0 +1,7 @@
+language,criterion,rater_1,rater_2,pair_overlap,eligible_clips,qualified,spearman,human_ceiling
+hi,naturalness,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,45,19,False,,
+hi,pronunciation,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,45,34,True,0.3435372367824417,0.5618609255663828
+hi,speaker_similarity,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,45,37,True,0.42150899013580967,0.5464388527222956
+ta,naturalness,r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a,r_e5fd48ac-ba90-4859-b337-e0a6840d74e8,39,30,True,-0.26471190379203174,0.5166405031782016
+ta,pronunciation,r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a,r_e5fd48ac-ba90-4859-b337-e0a6840d74e8,39,33,True,0.12277834489367716,0.5206565275598277
+ta,speaker_similarity,r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a,r_e5fd48ac-ba90-4859-b337-e0a6840d74e8,39,33,True,0.2574743725951773,0.45184805705753195

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.72,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.402435302734375,
+  "rms": 0.12717006963145702,
+  "sha256": "13b6da6bd9df76f253f733cbd522c5ffc7875dbb417254e1e6ad5205e58f8dad",
+  "clip_id": "ta_011_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "காலையில் புல்லின் மேல் பனி படிந்திருந்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:30.399302+00:00",
+  "raw_sha256": "1e251176507fb043f7527beb961247cc4e0a764216f80e89624ff1e601675241",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

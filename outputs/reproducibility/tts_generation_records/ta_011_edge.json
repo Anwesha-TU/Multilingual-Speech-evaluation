@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.88,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.504119873046875,
+  "rms": 0.08302417779385839,
+  "sha256": "a73e75611f3cc4e90dd8e4e1b1899bae0bad8a18211429545d5a6be30e4491e6",
+  "clip_id": "ta_011_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "காலையில் புல்லின் மேல் பனி படிந்திருந்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:00.373361+00:00",
+  "raw_sha256": "170a80e0ee1be517a957295f64b84db9b7ee174c3232a640871be948c4d40335",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

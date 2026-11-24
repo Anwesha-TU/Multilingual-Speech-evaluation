@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.48,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.391387939453125,
+  "rms": 0.11034791498998789,
+  "sha256": "21084c4442997ff2d02586fc036ce5f392433f076bfdb39927147c3ec746e920",
+  "clip_id": "ta_022_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "தயவுசெய்து கதவை மெதுவாக மூடுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:45.472169+00:00",
+  "raw_sha256": "00cea9a092ec8dd8030fa2d0a45675052b0bd8e49beb38af35cbff9ec643d97a",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.312,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.425048828125,
+  "rms": 0.10491200949831447,
+  "sha256": "64fcda35cfedc0b03bf32b133251edb340d66f398ae59bf9f1fed9cb1735b080",
+  "clip_id": "ta_007_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:25.113125+00:00",
+  "raw_sha256": "2b7540ad26f36c50f732bf1b204d19ade5676fcda2d0007873f99f37dc4372b0",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

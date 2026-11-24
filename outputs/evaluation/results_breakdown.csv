@@ -1,0 +1,9 @@
+track,part,language,system,measure,value,n_items
+1,4,hi,current,agreement_naturalness,0.05518263855718154,68
+1,4,hi,current,agreement_pronunciation,0.18895974922770162,84
+1,4,hi,current,agreement_speaker_similarity,0.19397988360698484,89
+1,4,hi,current,word_identification,0.6164383561643836,73
+1,4,ta,current,agreement_naturalness,-0.19804003847514207,49
+1,4,ta,current,agreement_pronunciation,-0.08188392036136356,53
+1,4,ta,current,agreement_speaker_similarity,0.25573998887197713,52
+1,4,ta,current,word_identification,0.5294117647058824,34

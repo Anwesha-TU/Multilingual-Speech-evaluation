@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.008,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.8262939453125,
+  "rms": 0.1424038520632373,
+  "sha256": "f3df5849a537b8c02af6dc428dc3601e21d7a8b75c1296bf63a3be87950319b5",
+  "clip_id": "hi_003_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "बच्चे ढोल की ताल पर नाच रहे हैं।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:52.292757+00:00",
+  "raw_sha256": "686bc5a63dd0aacedc937fb830ee7c58dc2158ee82b663d070afe0b788842dbf",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

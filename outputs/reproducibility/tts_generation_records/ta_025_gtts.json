@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.888,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.387237548828125,
+  "rms": 0.11298050801952991,
+  "sha256": "a8ee5c27236ad78fd532f6e221651be6b43be32b4d17ce51f96454265b52de69",
+  "clip_id": "ta_025_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "மேசையில் இருக்கும் புத்தகத்தை எடுத்துத் தருவாயா?",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:49.219914+00:00",
+  "raw_sha256": "a90bf28ddf74b987f9221cb1ec7c8a8af44cc6736baf603e1218107672fd0444",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

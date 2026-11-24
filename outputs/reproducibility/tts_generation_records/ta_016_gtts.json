@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.288,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.34222412109375,
+  "rms": 0.11031042178087018,
+  "sha256": "73a0ab0ecb0c855ae0e697e2ac3192bd65c5956012da63c841f86590ee50debe",
+  "clip_id": "ta_016_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "இன்று மாலை நாம் கடைக்குச் செல்லலாம்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:38.366359+00:00",
+  "raw_sha256": "8afb246fd9b3e86e0656bdeb275c922d6117f5f53bfe59497ad15317be87264a",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

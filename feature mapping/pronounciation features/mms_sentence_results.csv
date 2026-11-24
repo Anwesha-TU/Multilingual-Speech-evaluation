@@ -1,0 +1,241 @@
+﻿clip_id,audio_path,language,text,reference_audio_path,target_word,contrast,mms_text,cer,wer,source
+hi_001_edge,audio/hi_001_edge.wav,hi,यह पल मुझे हमेशा याद रहेगा।,references/hi_edge_reference.wav,पल,फल,यह पल मुझे हमेशा याद रहेगा,0.0,0.0,edge
+hi_001_gtts,audio/hi_001_gtts.wav,hi,यह पल मुझे हमेशा याद रहेगा।,references/hi_gtts_reference.wav,पल,फल,यह पल मुझे हमेशा याद रहेगा,0.0,0.0,gtts
+hi_001_human,audio/hi_001_human.wav,hi,क्या आप मुझे बता सकते हैं कि सबसे नस्दी कि रेलवे स्टेशन काहा है?,references/hi_human_reference_b.wav,,,क्या आप मुझे बता सकते हैं कि सबसे नज़दीक की रेलवे स्टेशन कहा है,0.07936507936507936,0.21428571428571427,human
+hi_001_mms,audio/hi_001_mms.wav,hi,यह पल मुझे हमेशा याद रहेगा।,references/hi_mms_reference.wav,पल,फल,यह पर मुझे हमेशा याद रहेगा,0.038461538461538464,0.16666666666666666,mms
+hi_002_edge,audio/hi_002_edge.wav,hi,इस पेड़ का फल बहुत मीठा है।,references/hi_edge_reference.wav,फल,पल,इस पेड़ का फल बहुत मीठा है,0.0,0.0,edge
+hi_002_gtts,audio/hi_002_gtts.wav,hi,इस पेड़ का फल बहुत मीठा है।,references/hi_gtts_reference.wav,फल,पल,इस पेड़ का फल बहुत मीठा है,0.0,0.0,gtts
+hi_002_human,audio/hi_002_human.wav,hi,बारी भारिश होने के बावजोद बच्चे फुट्बाल खेलते रहें,references/hi_human_reference_a.wav,,,भारी बारिश होने के बावज़ूद बच्चे फुटबॉल खेलते रहें,0.12,0.4444444444444444,human
+hi_002_mms,audio/hi_002_mms.wav,hi,इस पेड़ का फल बहुत मीठा है।,references/hi_mms_reference.wav,फल,पल,इस पेर का फर बहुत मीखा है,0.15384615384615385,0.42857142857142855,mms
+hi_003_edge,audio/hi_003_edge.wav,hi,बच्चे ढोल की ताल पर नाच रहे हैं।,references/hi_edge_reference.wav,ताल,थाल,बच्चे ढोल की ताल पर नाच रहे हैं,0.0,0.0,edge
+hi_003_gtts,audio/hi_003_gtts.wav,hi,बच्चे ढोल की ताल पर नाच रहे हैं।,references/hi_gtts_reference.wav,ताल,थाल,बच्चे धोल की ताल पर नाच रहे हैं,0.03225806451612903,0.125,gtts
+hi_003_human,audio/hi_003_human.wav,hi,वह रोज सुबरेल्वे स्टेशन के पास ताजे फुल बेचती है,references/hi_human_reference_a.wav,,,वह रोज सूपररेलवे स्टेशन के पास ताज़े फूल बेचती है,0.125,0.3,human
+hi_003_mms,audio/hi_003_mms.wav,hi,बच्चे ढोल की ताल पर नाच रहे हैं।,references/hi_mms_reference.wav,ताल,थाल,बच्चे ढोल किताल पर नाच रहे हैं,0.06451612903225806,0.25,mms
+hi_004_edge,audio/hi_004_edge.wav,hi,माँ ने पूजा का थाल मेज पर रखा।,references/hi_edge_reference.wav,थाल,ताल,मैंने पूजा का थाल मेस पर रखा,0.13793103448275862,0.375,edge
+hi_004_gtts,audio/hi_004_gtts.wav,hi,माँ ने पूजा का थाल मेज पर रखा।,references/hi_gtts_reference.wav,थाल,ताल,माने पूजा का थालमीज पर रखा,0.13793103448275862,0.5,gtts
+hi_004_human,audio/hi_004_human.wav,hi,पीटाने अपने स्कूल बाग में पाज बागनी पेंसिले रखेंगी,references/hi_human_reference_a.wav,,,पीटर ने अपने स्कूल बैग में पांच बैगनी पेंसिले रखीं,0.18,0.6666666666666666,human
+hi_004_mms,audio/hi_004_mms.wav,hi,माँ ने पूजा का थाल मेज पर रखा।,references/hi_mms_reference.wav,थाल,ताल,माँ ने पूजा काथा मेज पर रका,0.10344827586206896,0.375,mms
+hi_005_edge,audio/hi_005_edge.wav,hi,उन्होंने विद्यालय के लिए धन का दान किया।,references/hi_edge_reference.wav,दान,धान,उन्हों ने विद्यालय के लिए धन का दान किया,0.02564102564102564,0.25,edge
+hi_005_gtts,audio/hi_005_gtts.wav,hi,उन्होंने विद्यालय के लिए धन का दान किया।,references/hi_gtts_reference.wav,दान,धान,उन्हों ने विद्यालए के लिए धन का दान किया,0.05128205128205128,0.375,gtts
+hi_005_human,audio/hi_005_human.wav,hi,आज मुस्म बहुत अच्छा है और मैं पार्क में तेहलने जाने की सुझ रही हूँ,references/hi_human_reference_a.wav,,,आज मौसम बहुत अच्छा है आर्टमैं पार्क में टहलने जाने की सोच रहीं हूँ,0.15151515151515152,0.4,human
+hi_005_mms,audio/hi_005_mms.wav,hi,उन्होंने विद्यालय के लिए धन का दान किया।,references/hi_mms_reference.wav,दान,धान,उन्हों ने विद्यालय के लिए धन का दान किया,0.02564102564102564,0.25,mms
+hi_006_edge,audio/hi_006_edge.wav,hi,किसान खेत में धान उगा रहा है।,references/hi_edge_reference.wav,धान,दान,किसान खेत में धान उगा रहा है,0.0,0.0,edge
+hi_006_gtts,audio/hi_006_gtts.wav,hi,किसान खेत में धान उगा रहा है।,references/hi_gtts_reference.wav,धान,दान,किसान खेतमे धान उगा रहा है,0.07142857142857142,0.2857142857142857,gtts
+hi_006_human,audio/hi_006_human.wav,hi,राद भर मिट ताप्मान अचानक तीस दिगरी से गेरकर बारा दिगरी पर आगया आगया,references/hi_human_reference_a.wav,,,रात भरमिट तापमान अचानक तीज डिग्री से गिरकर बारा डिग्री पर आ गया,0.19402985074626866,0.7142857142857143,human
+hi_006_mms,audio/hi_006_mms.wav,hi,किसान खेत में धान उगा रहा है।,references/hi_mms_reference.wav,धान,दान,किसान खेत में धान बुगा रहा है,0.07142857142857142,0.14285714285714285,mms
+hi_007_edge,audio/hi_007_edge.wav,hi,तुम्हारी बात सुनकर मुझे खुशी हुई।,references/hi_edge_reference.wav,बात,भात,तुम्हारी बात सुनकर मुझे खुशी हुई,0.0,0.0,edge
+hi_007_gtts,audio/hi_007_gtts.wav,hi,तुम्हारी बात सुनकर मुझे खुशी हुई।,references/hi_gtts_reference.wav,बात,भात,तुम्हारी बात सुनकर मुझे खुशी हुई,0.0,0.0,gtts
+hi_007_human,audio/hi_007_human.wav,hi,"अर्टिफिश्यल इंटलिजन्स लोगो को सीखने, काम करने, और बाज्चित करने के तरीके को बड़ल रहा है।",references/hi_human_reference_a.wav,,,आर्टिफिशल इंटेलिजेंस लोगों को सीखने काम करने और बातचित करने के तरीके को बदल रहा है,0.13095238095238096,0.3125,human
+hi_007_mms,audio/hi_007_mms.wav,hi,तुम्हारी बात सुनकर मुझे खुशी हुई।,references/hi_mms_reference.wav,बात,भात,तुम्हारी बात सुनकर मुझे खुशी हुी,0.03125,0.16666666666666666,mms
+hi_008_edge,audio/hi_008_edge.wav,hi,आज दोपहर हमने दाल और भात खाया।,references/hi_edge_reference.wav,भात,बात,आज दो पहर हमने दाल और भात खाया,0.034482758620689655,0.2857142857142857,edge
+hi_008_gtts,audio/hi_008_gtts.wav,hi,आज दोपहर हमने दाल और भात खाया।,references/hi_gtts_reference.wav,भात,बात,आज दूपेहर हम ने दाल और भात खाया,0.10344827586206896,0.42857142857142855,gtts
+hi_008_human,audio/hi_008_human.wav,hi,क्रिप्या कम्रे सिब बाहर निकलने से पहले खिरकी बन्द कर दें,references/hi_human_reference_a.wav,,,कृप्या कमरे से बाहर निकलने से पहले खिड़की बंद कर दें,0.17857142857142858,0.45454545454545453,human
+hi_008_mms,audio/hi_008_mms.wav,hi,आज दोपहर हमने दाल और भात खाया।,references/hi_mms_reference.wav,भात,बात,आज दो पहर हम ने दाल और भात खाया,0.06896551724137931,0.5714285714285714,mms
+hi_009_edge,audio/hi_009_edge.wav,hi,उसने आज एक काली कमीज पहनी है।,references/hi_edge_reference.wav,काली,खाली,उसने आज एक काली कमीस पहनी है,0.03571428571428571,0.14285714285714285,edge
+hi_009_gtts,audio/hi_009_gtts.wav,hi,उसने आज एक काली कमीज पहनी है।,references/hi_gtts_reference.wav,काली,खाली,उसने आज एक काली कमीज पहनी है,0.0,0.0,gtts
+hi_009_human,audio/hi_009_human.wav,hi,"अच्छी बाज्चित के लिए देहर, स्पस्टेता, आत्मविश्वास, और दिहान से सुदना जरूडी है।",references/hi_human_reference_a.wav,,,अच्छी बातचित के लिए धैजय स्पष्टता आत्मविश्वास और ध्यान से सुनना ज़रूरी है,0.1891891891891892,0.46153846153846156,human
+hi_009_mms,audio/hi_009_mms.wav,hi,उसने आज एक काली कमीज पहनी है।,references/hi_mms_reference.wav,काली,खाली,उसने आज लिए काली कमीज पहनी है,0.10714285714285714,0.14285714285714285,mms
+hi_010_edge,audio/hi_010_edge.wav,hi,यह बोतल अब पूरी तरह खाली है।,references/hi_edge_reference.wav,खाली,काली,यह बोतल अब पूरी तरह खाली है,0.0,0.0,edge
+hi_010_gtts,audio/hi_010_gtts.wav,hi,यह बोतल अब पूरी तरह खाली है।,references/hi_gtts_reference.wav,खाली,काली,यह बोतल अब पूरी तरह खाली है,0.0,0.0,gtts
+hi_010_human,audio/hi_010_human.wav,hi,2016 में सोद करताों ने मुसम की चरम खडनाों का पुर्वा नुमाल लगाने के लिए एक नया तरीका विखसित किया.,references/hi_human_reference_a.wav,,,2026 में शोधकर्ताओं ने मौसम की चर्म घटनाओं का पूर्वनुमान लगाने के लिए एक नया तरीका विकसित किया,0.16842105263157894,0.45,human
+hi_010_mms,audio/hi_010_mms.wav,hi,यह बोतल अब पूरी तरह खाली है।,references/hi_mms_reference.wav,खाली,काली,यह बोतल अब पूरी तरह खली है,0.037037037037037035,0.14285714285714285,mms
+hi_011_edge,audio/hi_011_edge.wav,hi,इस डिब्बे में दस रंगीन पेंसिल हैं।,references/hi_edge_reference.wav,दस,डस,इस दिब्बे में दस रंगीन पेंसिल हैं,0.030303030303030304,0.14285714285714285,edge
+hi_011_gtts,audio/hi_011_gtts.wav,hi,इस डिब्बे में दस रंगीन पेंसिल हैं।,references/hi_gtts_reference.wav,दस,डस,इस डिब्बे में दस रंडीन पेंसेल हैं,0.06060606060606061,0.2857142857142857,gtts
+hi_011_mms,audio/hi_011_mms.wav,hi,इस डिब्बे में दस रंगीन पेंसिल हैं।,references/hi_mms_reference.wav,दस,डस,इस डिब्बे में दसरन गीनते से हैं,0.24242424242424243,0.42857142857142855,mms
+hi_012_edge,audio/hi_012_edge.wav,hi,साँप पास आए तो वह डस सकता है।,references/hi_edge_reference.wav,डस,दस,साप पास आए तो वह दस सकता है,0.07142857142857142,0.25,edge
+hi_012_gtts,audio/hi_012_gtts.wav,hi,साँप पास आए तो वह डस सकता है।,references/hi_gtts_reference.wav,डस,दस,साप पास आए तो वह डस सकता है,0.03571428571428571,0.125,gtts
+hi_012_mms,audio/hi_012_mms.wav,hi,साँप पास आए तो वह डस सकता है।,references/hi_mms_reference.wav,डस,दस,साप पास आए तो वह टैससक्ता है,0.17857142857142858,0.375,mms
+hi_013_edge,audio/hi_013_edge.wav,hi,अगले साल हम नया घर बनाएँगे।,references/hi_edge_reference.wav,साल,शाल,अगले साल हम नया घर बनाएँगे,0.0,0.0,edge
+hi_013_gtts,audio/hi_013_gtts.wav,hi,अगले साल हम नया घर बनाएँगे।,references/hi_gtts_reference.wav,साल,शाल,अगले साल हम नया घर बनाएंगे,0.038461538461538464,0.16666666666666666,gtts
+hi_013_mms,audio/hi_013_mms.wav,hi,अगले साल हम नया घर बनाएँगे।,references/hi_mms_reference.wav,साल,शाल,अदले साल हम नया घर बनाएँगे,0.038461538461538464,0.16666666666666666,mms
+hi_014_edge,audio/hi_014_edge.wav,hi,ठंड लगने पर दादी ने शाल ओढ़ ली।,references/hi_edge_reference.wav,शाल,साल,ठंड लगने पर दादी ने शाल ओढली,0.06666666666666667,0.25,edge
+hi_014_gtts,audio/hi_014_gtts.wav,hi,ठंड लगने पर दादी ने शाल ओढ़ ली।,references/hi_gtts_reference.wav,शाल,साल,थंड लगने पर दादी ने शाल ओड़ ली,0.06666666666666667,0.25,gtts
+hi_014_mms,audio/hi_014_mms.wav,hi,ठंड लगने पर दादी ने शाल ओढ़ ली।,references/hi_mms_reference.wav,शाल,साल,तहले लदिने पर दादी ने शाल ओड़ ली,0.23333333333333334,0.375,mms
+hi_015_edge,audio/hi_015_edge.wav,hi,मछुआरे ने नदी में अपना जाल डाला।,references/hi_edge_reference.wav,जाल,चाल,मछुवारे ने नदी में अपना जाल दाला,0.0967741935483871,0.2857142857142857,edge
+hi_015_gtts,audio/hi_015_gtts.wav,hi,मछुआरे ने नदी में अपना जाल डाला।,references/hi_gtts_reference.wav,जाल,चाल,मछुवारे ने नदी में अपना जाल दाला,0.0967741935483871,0.2857142857142857,gtts
+hi_015_mms,audio/hi_015_mms.wav,hi,मछुआरे ने नदी में अपना जाल डाला।,references/hi_mms_reference.wav,जाल,चाल,उछवारे ने नदी में अपना जान डारा,0.16129032258064516,0.42857142857142855,mms
+hi_016_edge,audio/hi_016_edge.wav,hi,शतरंज में उसकी अगली चाल बहुत अच्छी थी।,references/hi_edge_reference.wav,चाल,जाल,शत्रंज में उसकी अगली चाल बहुत अच्छी थी,0.02702702702702703,0.125,edge
+hi_016_gtts,audio/hi_016_gtts.wav,hi,शतरंज में उसकी अगली चाल बहुत अच्छी थी।,references/hi_gtts_reference.wav,चाल,जाल,शत्रंज में उसकी अगली चाल बहुत अच्छी थी,0.02702702702702703,0.125,gtts
+hi_016_mms,audio/hi_016_mms.wav,hi,शतरंज में उसकी अगली चाल बहुत अच्छी थी।,references/hi_mms_reference.wav,चाल,जाल,शतरल्ज मैं उसकी अदलीचार बहुत अच्छी थी,0.16216216216216217,0.5,mms
+hi_017_edge,audio/hi_017_edge.wav,hi,आज का दिन हमारे लिए खास है।,references/hi_edge_reference.wav,दिन,दीन,आज का दिन हमारे लिए खास है,0.0,0.0,edge
+hi_017_gtts,audio/hi_017_gtts.wav,hi,आज का दिन हमारे लिए खास है।,references/hi_gtts_reference.wav,दिन,दीन,आज का दिन हमारे लिए खास है,0.0,0.0,gtts
+hi_017_mms,audio/hi_017_mms.wav,hi,आज का दिन हमारे लिए खास है।,references/hi_mms_reference.wav,दिन,दीन,आजका दिन हमारे लिए खास है,0.038461538461538464,0.2857142857142857,mms
+hi_018_edge,audio/hi_018_edge.wav,hi,हमें दीन लोगों की मदद करनी चाहिए।,references/hi_edge_reference.wav,दीन,दिन,हमें दीन लोगों की मदद करनी चाहिए,0.0,0.0,edge
+hi_018_gtts,audio/hi_018_gtts.wav,hi,हमें दीन लोगों की मदद करनी चाहिए।,references/hi_gtts_reference.wav,दीन,दिन,हमें दीन लोगों की मदद करनी चाहिए,0.0,0.0,gtts
+hi_018_mms,audio/hi_018_mms.wav,hi,हमें दीन लोगों की मदद करनी चाहिए।,references/hi_mms_reference.wav,दीन,दिन,हमें दीन लोगों की मदद करनी चाहिए,0.0,0.0,mms
+hi_019_edge,audio/hi_019_edge.wav,hi,एक बैल धीरे धीरे खेत की ओर चला।,references/hi_edge_reference.wav,बैल,बेल,एक बैल-धीरे-धीरे खेत की ओर चला,0.06666666666666667,0.375,edge
+hi_019_gtts,audio/hi_019_gtts.wav,hi,एक बैल धीरे धीरे खेत की ओर चला।,references/hi_gtts_reference.wav,बैल,बेल,एक बैल धीरे-धीरे खेत की ओर चला,0.03333333333333333,0.25,gtts
+hi_019_mms,audio/hi_019_mms.wav,hi,एक बैल धीरे धीरे खेत की ओर चला।,references/hi_mms_reference.wav,बैल,बेल,एक बैल धीरे-धीरे खेत की ओर जा,0.1,0.375,mms
+hi_020_edge,audio/hi_020_edge.wav,hi,आँगन की बेल पर नए पत्ते आए हैं।,references/hi_edge_reference.wav,बेल,बैल,आँगन की बेल पर नए पत्ते आए हैं,0.0,0.0,edge
+hi_020_gtts,audio/hi_020_gtts.wav,hi,आँगन की बेल पर नए पत्ते आए हैं।,references/hi_gtts_reference.wav,बेल,बैल,आनगन की बेल पर नए पत्ते आए हैं,0.03333333333333333,0.125,gtts
+hi_020_mms,audio/hi_020_mms.wav,hi,आँगन की बेल पर नए पत्ते आए हैं।,references/hi_mms_reference.wav,बेल,बैल,अंगन की बेल पर नएपत्ते आए हैं,0.1,0.375,mms
+hi_021_edge,audio/hi_021_edge.wav,hi,सुबह की हवा ठंडी है और आकाश साफ है।,references/hi_edge_reference.wav,,,सुबह की हवा ठंडी है और आकाश साफ़ है,0.029411764705882353,0.1111111111111111,edge
+hi_021_gtts,audio/hi_021_gtts.wav,hi,सुबह की हवा ठंडी है और आकाश साफ है।,references/hi_gtts_reference.wav,,,सुबह की हवा ठंडी है और आकाश साफ़ है,0.029411764705882353,0.1111111111111111,gtts
+hi_021_mms,audio/hi_021_mms.wav,hi,सुबह की हवा ठंडी है और आकाश साफ है।,references/hi_mms_reference.wav,,,सुबा की हवा ठनगी है और आकाश साह है,0.11764705882352941,0.3333333333333333,mms
+hi_022_edge,audio/hi_022_edge.wav,hi,कृपया खिड़की खोल दीजिए और पंखा बंद कर दीजिए।,references/hi_edge_reference.wav,,,कृप्या खिड़की खोल दीजिए और पंखा बंद कर दीजिए,0.023255813953488372,0.1111111111111111,edge
+hi_022_gtts,audio/hi_022_gtts.wav,hi,कृपया खिड़की खोल दीजिए और पंखा बंद कर दीजिए।,references/hi_gtts_reference.wav,,,कृपयया खिड़की खोल दीजिए और पंखा बंद कर दीजिए,0.023255813953488372,0.1111111111111111,gtts
+hi_022_mms,audio/hi_022_mms.wav,hi,कृपया खिड़की खोल दीजिए और पंखा बंद कर दीजिए।,references/hi_mms_reference.wav,,,कि प्या खिड़ की खोल दीजिए और पंगा बुनकर दीजीए,0.20930232558139536,0.8888888888888888,mms
+hi_023_edge,audio/hi_023_edge.wav,hi,मेरी बहन शाम को पुस्तकालय से वापस आएगी।,references/hi_edge_reference.wav,,,मेरी बहन शाम को पुस्तकालय से वापस आएगी,0.0,0.0,edge
+hi_023_gtts,audio/hi_023_gtts.wav,hi,मेरी बहन शाम को पुस्तकालय से वापस आएगी।,references/hi_gtts_reference.wav,,,मेरी बेहन शाम को पुस्तकालए से वापस आएगी,0.05263157894736842,0.25,gtts
+hi_023_mms,audio/hi_023_mms.wav,hi,मेरी बहन शाम को पुस्तकालय से वापस आएगी।,references/hi_mms_reference.wav,,,मेरी बहन शाम को कुस्त कालय से वापस आएगी,0.05263157894736842,0.25,mms
+hi_024_edge,audio/hi_024_edge.wav,hi,हम सब रविवार को मिलकर खाना बनाएँगे।,references/hi_edge_reference.wav,,,हम सब रविवार को मिलकर खाना बनाएँगे,0.0,0.0,edge
+hi_024_gtts,audio/hi_024_gtts.wav,hi,हम सब रविवार को मिलकर खाना बनाएँगे।,references/hi_gtts_reference.wav,,,हम सब रविवार को मिलकर खाना बनाएँगे,0.0,0.0,gtts
+hi_024_mms,audio/hi_024_mms.wav,hi,हम सब रविवार को मिलकर खाना बनाएँगे।,references/hi_mms_reference.wav,,,हम सब रविवार को मिलतर खाना बनाएँगे,0.029411764705882353,0.14285714285714285,mms
+hi_025_edge,audio/hi_025_edge.wav,hi,क्या तुमने मेज पर रखी मेरी किताब देखी है?,references/hi_edge_reference.wav,,,क्या तुम ने मेस पर रखी मेरी किताब देखी है,0.05,0.3333333333333333,edge
+hi_025_gtts,audio/hi_025_gtts.wav,hi,क्या तुमने मेज पर रखी मेरी किताब देखी है?,references/hi_gtts_reference.wav,,,क्या तुम ने मेज पर रखी मेरी किताब देखी है,0.025,0.2222222222222222,gtts
+hi_025_mms,audio/hi_025_mms.wav,hi,क्या तुमने मेज पर रखी मेरी किताब देखी है?,references/hi_mms_reference.wav,,,क्या तुम ने मेज पर रखी मेरी किताब देखी है,0.025,0.2222222222222222,mms
+hi_026_edge,audio/hi_026_edge.wav,hi,बस आने में अभी थोड़ा समय लगेगा।,references/hi_edge_reference.wav,,,बस आने में अभी थोड़ा समय लगेगा,0.0,0.0,edge
+hi_026_gtts,audio/hi_026_gtts.wav,hi,बस आने में अभी थोड़ा समय लगेगा।,references/hi_gtts_reference.wav,,,बस आने में अभी थोड़ा समय लगेगा,0.0,0.0,gtts
+hi_026_mms,audio/hi_026_mms.wav,hi,बस आने में अभी थोड़ा समय लगेगा।,references/hi_mms_reference.wav,,,वह साने में अभी थोड़ा समय लगेगा,0.13333333333333333,0.2857142857142857,mms
+hi_027_edge,audio/hi_027_edge.wav,hi,बारिश रुकने के बाद बच्चे बाहर खेलने गए।,references/hi_edge_reference.wav,,,वारिष रुकने के बाद बच्चे बाहर खेलने गए,0.05263157894736842,0.125,edge
+hi_027_gtts,audio/hi_027_gtts.wav,hi,बारिश रुकने के बाद बच्चे बाहर खेलने गए।,references/hi_gtts_reference.wav,,,बारिश रूकने के बाद बच्चे बाहर खेलने गए,0.02631578947368421,0.125,gtts
+hi_027_mms,audio/hi_027_mms.wav,hi,बारिश रुकने के बाद बच्चे बाहर खेलने गए।,references/hi_mms_reference.wav,,,बारिश रोकने के बाद बच्चे बाहर खेने गए,0.05263157894736842,0.25,mms
+hi_028_edge,audio/hi_028_edge.wav,hi,यह रास्ता सीधे पुराने बाजार तक जाता है।,references/hi_edge_reference.wav,,,यह रास्ता सीधे पुराने बाज़ार तक जाता है,0.02631578947368421,0.125,edge
+hi_028_gtts,audio/hi_028_gtts.wav,hi,यह रास्ता सीधे पुराने बाजार तक जाता है।,references/hi_gtts_reference.wav,,,यह रास्ता सीधे पुराने बाज़ार तक जाता है,0.02631578947368421,0.125,gtts
+hi_028_mms,audio/hi_028_mms.wav,hi,यह रास्ता सीधे पुराने बाजार तक जाता है।,references/hi_mms_reference.wav,,,यौर रास्ता सीधे पुराने बाज़ार तक जाता है,0.07894736842105263,0.25,mms
+hi_029_edge,audio/hi_029_edge.wav,hi,मुझे सुबह चाय के साथ अखबार पढ़ना पसंद है।,references/hi_edge_reference.wav,,,मुझे सुबह चाय के साथ अखबार पढ़ना पसंद है,0.0,0.0,edge
+hi_029_gtts,audio/hi_029_gtts.wav,hi,मुझे सुबह चाय के साथ अखबार पढ़ना पसंद है।,references/hi_gtts_reference.wav,,,मुझे सुबह चाए के साथ अखबार पड़ना पसंद हे,0.075,0.3333333333333333,gtts
+hi_029_mms,audio/hi_029_mms.wav,hi,मुझे सुबह चाय के साथ अखबार पढ़ना पसंद है।,references/hi_mms_reference.wav,,,मुझे सुबाचाई के साथ अखबार पड़ना पसन्द है,0.15,0.4444444444444444,mms
+hi_030_edge,audio/hi_030_edge.wav,hi,धीरे बोलिए ताकि सभी लोग आपकी आवाज सुन सकें।,references/hi_edge_reference.wav,,,धीरे बोलिए ताकि सभी लोग आपकी आवाज़ सुन सकें,0.023809523809523808,0.1111111111111111,edge
+hi_030_gtts,audio/hi_030_gtts.wav,hi,धीरे बोलिए ताकि सभी लोग आपकी आवाज सुन सकें।,references/hi_gtts_reference.wav,,,भीरे बोलिए ताकि सभी लोग आपकी आवाज सुन सके,0.047619047619047616,0.2222222222222222,gtts
+hi_030_mms,audio/hi_030_mms.wav,hi,धीरे बोलिए ताकि सभी लोग आपकी आवाज सुन सकें।,references/hi_mms_reference.wav,,,धीरे बोलिए ताकि सभी लो आपकी आवाज़ सुन सके,0.07142857142857142,0.3333333333333333,mms
+hi_mp01_a_tts1,audio/hi_mp01_a_tts1.wav,hi,उसने एक पल सोचा।,references/minimal_hi_tts1_reference_b.wav,पल,फल,उसने एक पल सोचा,0.0,0.0,tts1
+hi_mp01_b_tts1,audio/hi_mp01_b_tts1.wav,hi,उसने एक फल खाया।,references/minimal_hi_tts1_reference_a.wav,फल,पल,उसने एक फल खाया,0.0,0.0,tts1
+hi_mp02_a_tts1,audio/hi_mp02_a_tts1.wav,hi,उसने अपनी बात कही।,references/minimal_hi_tts1_reference_a.wav,बात,भात,उसने अपनी बात कही,0.0,0.0,tts1
+hi_mp02_b_tts1,audio/hi_mp02_b_tts1.wav,hi,आज भात पक गया।,references/minimal_hi_tts1_reference_a.wav,भात,बात,आज भात पक गया,0.0,0.0,tts1
+hi_mp03_a_tts1,audio/hi_mp03_a_tts1.wav,hi,दाल गरम है।,references/minimal_hi_tts1_reference_a.wav,दाल,डाल,दाल गरम है,0.0,0.0,tts1
+hi_mp03_b_tts1,audio/hi_mp03_b_tts1.wav,hi,पेड़ की डाल टूट गई।,references/minimal_hi_tts1_reference_a.wav,डाल,दाल,पेड़ की डाल टूट गई,0.0,0.0,tts1
+hi_mp04_a_tts1,audio/hi_mp04_a_tts1.wav,hi,ताल में पानी है।,references/minimal_hi_tts1_reference_a.wav,ताल,टाल,टाल में पानी है,0.06666666666666667,0.25,tts1
+hi_mp04_b_tts1,audio/hi_mp04_b_tts1.wav,hi,वह सवाल टाल गया।,references/minimal_hi_tts1_reference_a.wav,टाल,ताल,वह सवाल ठाल गया,0.06666666666666667,0.25,tts1
+hi_mp05_a_tts2,audio/hi_mp05_a_tts2.wav,hi,इस साल बारिश हुई।,references/minimal_hi_tts2_reference_b.wav,साल,शाल,इस साल बारिश हुई,0.0,0.0,tts2
+hi_mp05_b_tts2,audio/hi_mp05_b_tts2.wav,hi,उसने शाल ओढ़ी।,references/minimal_hi_tts2_reference_a.wav,शाल,साल,उसने शा लोड़ी,0.3076923076923077,0.6666666666666666,tts2
+hi_mp06_a_tts2,audio/hi_mp06_a_tts2.wav,hi,उसके बाल लंबे हैं।,references/minimal_hi_tts2_reference_a.wav,बाल,भाल,उसके बाद लमबे हैं,0.11764705882352941,0.5,tts2
+hi_mp06_b_tts2,audio/hi_mp06_b_tts2.wav,hi,उसके भाल पर तिलक है।,references/minimal_hi_tts2_reference_a.wav,भाल,बाल,उसके भाल पर तिलक है,0.0,0.0,tts2
+hi_mp07_a_tts2,audio/hi_mp07_a_tts2.wav,hi,पेड़ से पत्ता गिरा।,references/minimal_hi_tts2_reference_a.wav,पत्ता,पट्टा,पेड़ से पत्ता गिरा,0.0,0.0,tts2
+hi_mp07_b_tts2,audio/hi_mp07_b_tts2.wav,hi,उसने जमीन का पट्टा दिखाया।,references/minimal_hi_tts2_reference_a.wav,पट्टा,पत्ता,उसने जमीन का पट्टा दिखाया,0.0,0.0,tts2
+hi_mp08_a_tts3,audio/hi_mp08_a_tts3.wav,hi,आज का दिन अच्छा है।,references/minimal_hi_tts3_reference_b.wav,दिन,दीन,आजका दिन अच्छा है,0.05555555555555555,0.4,tts3
+hi_mp08_b_tts3,audio/hi_mp08_b_tts3.wav,hi,वह दीन व्यक्ति की मदद करता है।,references/minimal_hi_tts3_reference_a.wav,दीन,दिन,वह दीन व्यक्‍ति की मदद करता है,0.034482758620689655,0.14285714285714285,tts3
+hi_mp09_a_tts3,audio/hi_mp09_a_tts3.wav,hi,सर ने हमें बुलाया।,references/minimal_hi_tts3_reference_a.wav,सर,शर,सर ने हमें बुलाया,0.0,0.0,tts3
+hi_mp09_b_tts3,audio/hi_mp09_b_tts3.wav,hi,शर से उसका आशय तीर था।,references/minimal_hi_tts3_reference_a.wav,शर,सर,शर से उसका आशय तीज था,0.047619047619047616,0.16666666666666666,tts3
+hi_mp10_a_tts3,audio/hi_mp10_a_tts3.wav,hi,काला कपड़ा लाओ।,references/minimal_hi_tts3_reference_a.wav,काला,खाला,धिकारा कपड़ा लाओ,0.21428571428571427,0.3333333333333333,tts3
+hi_mp10_b_tts3,audio/hi_mp10_b_tts3.wav,hi,मेरी खाला घर आईं।,references/minimal_hi_tts3_reference_a.wav,खाला,काला,मेली खाला घर आहीं,0.1875,0.5,tts3
+ta_001_edge,audio/ta_001_edge.wav,ta,என் பல் இன்று மிகவும் வலிக்கிறது.,references/ta_edge_reference.wav,பல்,பால்,என் பல் இன்று மிகவும் வலிக்கிறது,0.0,0.0,edge
+ta_001_gtts,audio/ta_001_gtts.wav,ta,என் பல் இன்று மிகவும் வலிக்கிறது.,references/ta_gtts_reference.wav,பல்,பால்,இன்பல் இன்று மிகவும் வழிக்கிறது,0.09375,0.6,gtts
+ta_001_human,audio/ta_001_human.wav,ta,"இந்த வாணில் யார்காய் உள்ளது, எனவேன் நான் பூங்காவிற்கு உள்ளாவைச் செல்ல உள்ளேன்",references/ta_human_reference_b.wav,,,இன்று வானிலை அழகாய் உள்ளது எனவே நான் பூங்காவிற்கு உளாவச் செல்ல உள்ளேன்,0.18421052631578946,0.5,human
+ta_001_mms,audio/ta_001_mms.wav,ta,என் பல் இன்று மிகவும் வலிக்கிறது.,references/ta_mms_reference.wav,பல்,பால்,என் பல் இன்று மிகவும் வழிக்கிறது,0.03125,0.2,mms
+ta_002_edge,audio/ta_002_edge.wav,ta,குழந்தை காலையில் பால் குடித்தது.,references/ta_edge_reference.wav,பால்,பல்,குழந்தைக்காலையில் பால்குடித்தது,0.0967741935483871,1.0,edge
+ta_002_gtts,audio/ta_002_gtts.wav,ta,குழந்தை காலையில் பால் குடித்தது.,references/ta_gtts_reference.wav,பால்,பல்,குழந்தைக காலையில் பால்குடித்தது,0.06451612903225806,0.75,gtts
+ta_002_human,audio/ta_002_human.wav,ta,அவள் அனுதினமும் காலையில் ரையில் நிலை மருகே அலர்களை வித்பாள்.,references/ta_human_reference_a.wav,,,அவள் அநுதினமும் காலையில் இரயில்நிலை மறுகே அலர்களை விட்பாள்,0.1016949152542373,0.625,human
+ta_002_mms,audio/ta_002_mms.wav,ta,குழந்தை காலையில் பால் குடித்தது.,references/ta_mms_reference.wav,பால்,பல்,குழந்தைக் காலையில் பால் குடித்தது,0.06451612903225806,0.25,mms
+ta_003_edge,audio/ta_003_edge.wav,ta,பாதையில் ஒரு பெரிய கல் கிடக்கிறது.,references/ta_edge_reference.wav,கல்,கால்,பாதையில் ஒரு பெரிய கல்கிணக்கிறது,0.06060606060606061,0.4,edge
+ta_003_gtts,audio/ta_003_gtts.wav,ta,பாதையில் ஒரு பெரிய கல் கிடக்கிறது.,references/ta_gtts_reference.wav,கல்,கால்,வாதையில் ஒரு பெரிய கல் கிடக்கிறது,0.030303030303030304,0.2,gtts
+ta_003_human,audio/ta_003_human.wav,ta,"சேர்க்கேன் நுன்னேறிவே மனித்தர்கள் கட்கும், பணியாத்தும் மற்றும் உரையாடும் விதங்களை மாற்றியம்து வருகிறது.",references/ta_human_reference_a.wav,,,செயற்கை நுண்ணறிவே மனிதர்கள் கற்கும் பணியாட்டும் மற்றும் உரையாடும் விதங்களை மாத்தியமைத்து வருகிறது,0.18811881188118812,0.6,human
+ta_003_mms,audio/ta_003_mms.wav,ta,பாதையில் ஒரு பெரிய கல் கிடக்கிறது.,references/ta_mms_reference.wav,கல்,கால்,பாதையில் ஒரு பெரிய கல் கிடக்கிறது,0.0,0.0,mms
+ta_004_edge,audio/ta_004_edge.wav,ta,நீண்ட நேரம் நடந்ததால் என் கால் வலிக்கிறது.,references/ta_edge_reference.wav,கால்,கல்,நீந்த நேரம் நடந்ததால் என்கால் வலிக்கிறது,0.07317073170731707,0.5,edge
+ta_004_gtts,audio/ta_004_gtts.wav,ta,நீண்ட நேரம் நடந்ததால் என் கால் வலிக்கிறது.,references/ta_gtts_reference.wav,கால்,கல்,நீண்ட நேரம் நடந்ததால் என் கால்வலிக்கிறது,0.024390243902439025,0.3333333333333333,gtts
+ta_004_human,audio/ta_004_human.wav,ta,அறையை விட்டு வரும்முன் தயவை செய்து ஜன்லை அடைக்குக்கா.,references/ta_human_reference_a.wav,,,அறையை விட்டு வருமுன் தயவச செய்த ஜன்னலை அடைக்குக,0.15384615384615385,0.7142857142857143,human
+ta_004_mms,audio/ta_004_mms.wav,ta,நீண்ட நேரம் நடந்ததால் என் கால் வலிக்கிறது.,references/ta_mms_reference.wav,கால்,கல்,நீந்த நேரம் நடந்ததால் என்கால் வழிக்கிறது,0.0975609756097561,0.6666666666666666,mms
+ta_005_edge,audio/ta_005_edge.wav,ta,இந்த குடம் முழுவதும் தண்ணீர் உள்ளது.,references/ta_edge_reference.wav,குடம்,கூடம்,இந்தக் குடம்புழவதும் தண்ணீர் உள்ளது,0.14285714285714285,0.6,edge
+ta_005_gtts,audio/ta_005_gtts.wav,ta,இந்த குடம் முழுவதும் தண்ணீர் உள்ளது.,references/ta_gtts_reference.wav,குடம்,கூடம்,இந்தக் குடங முழுவதும் தண்ணீர் உள்ளது,0.11428571428571428,0.4,gtts
+ta_005_human,audio/ta_005_human.wav,ta,வெப்பந்திலை 20 பொழுதுதில் திடீரன 30டிக்கிறிலிருந்து 12டிக்கிறி அது குறைந்து விட்டது,references/ta_human_reference_a.wav,,,வெப்ப நிலை இரவு பொழுதில் திடீரின ம3ப்பது டிகிரியிலிருந்து பன்னிரண்டு டிகிரியாக் குறைந்துவிட்டது,0.4457831325301205,1.1111111111111112,human
+ta_005_mms,audio/ta_005_mms.wav,ta,இந்த குடம் முழுவதும் தண்ணீர் உள்ளது.,references/ta_mms_reference.wav,குடம்,கூடம்,இந்தக் குடம் முழுவதும் தண்ணீர் உள்ளது,0.05714285714285714,0.2,mms
+ta_006_edge,audio/ta_006_edge.wav,ta,இந்த கூடம் மிகவும் பெரியதாக இருக்கிறது.,references/ta_edge_reference.wav,கூடம்,குடம்,இந்தக் கூடம் மிகவம் பெரியதாக இருக்கிறது,0.07894736842105263,0.4,edge
+ta_006_gtts,audio/ta_006_gtts.wav,ta,இந்த கூடம் மிகவும் பெரியதாக இருக்கிறது.,references/ta_gtts_reference.wav,கூடம்,குடம்,இந்தக் கூடம் மிகவும் பெரியதாக இருக்கிறது,0.05263157894736842,0.2,gtts
+ta_006_human,audio/ta_006_human.wav,ta,பீட்டர்த்தான்னுடைய பைகுள் 5 ஊதானேர பெஞ்சில்களை வைத்துக்கொண்டான்,references/ta_human_reference_a.wav,,,பீட்டர் தன்னுடைய பைுக்குள் ஐந்து ஊதாநிர பென்சில்களை வைத்துக்கொண்டான்,0.2222222222222222,1.0,human
+ta_006_mms,audio/ta_006_mms.wav,ta,இந்த கூடம் மிகவும் பெரியதாக இருக்கிறது.,references/ta_mms_reference.wav,கூடம்,குடம்,இந்தக் கூடம் மிகவும் பெரியதாக இருக்கிறது,0.05263157894736842,0.2,mms
+ta_007_edge,audio/ta_007_edge.wav,ta,மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்.,references/ta_edge_reference.wav,குடை,கூடை,மழை வருவதால் குடையஎடுத்துச் செல்லுங்கள்,0.02564102564102564,0.4,edge
+ta_007_gtts,audio/ta_007_gtts.wav,ta,மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்.,references/ta_gtts_reference.wav,குடை,கூடை,மழைவருவதால் கூடை எடுத்துச் செல்லுங்கள்,0.05128205128205128,0.6,gtts
+ta_007_human,audio/ta_007_human.wav,ta,அருகே ரைல் நிலையம் ஏதேனும் முண்டேனில் வடிக்காட்ட முடியுமோ,references/ta_human_reference_a.wav,,,அருகே இரயில் நிலையம் ஏதேனும் உண்டெனில் வழிகாட்ட முடியுமோ,0.15789473684210525,0.42857142857142855,human
+ta_007_mms,audio/ta_007_mms.wav,ta,மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்.,references/ta_mms_reference.wav,குடை,கூடை,மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்,0.0,0.0,mms
+ta_008_edge,audio/ta_008_edge.wav,ta,அம்மா பழங்களை ஒரு கூடை நிறைய வாங்கினார்.,references/ta_edge_reference.wav,கூடை,குடை,அம்மாப் பழங்களை ஒரு கூடை நிறையவாங்கினார்,0.07692307692307693,0.5,edge
+ta_008_gtts,audio/ta_008_gtts.wav,ta,அம்மா பழங்களை ஒரு கூடை நிறைய வாங்கினார்.,references/ta_gtts_reference.wav,கூடை,குடை,அம்ம பழங்களை ஒரு கூடை மிறைய வாங்கினார்,0.05128205128205128,0.3333333333333333,gtts
+ta_008_human,audio/ta_008_human.wav,ta,அறைவாளர்கள் விடியிர்வானில் மாற்றங்களைக் கணிக்க புதிய வழிகளைக் கண்டரிந்துவிட்டனர்,references/ta_human_reference_a.wav,,,ஆரைவாளர்கள் திடீர்வானிலை் மாற்றங்களைக் கணிக்க புதிய வழிகளைக் கண்டறிந்துள்ளனர்,0.15,0.42857142857142855,human
+ta_008_mms,audio/ta_008_mms.wav,ta,அம்மா பழங்களை ஒரு கூடை நிறைய வாங்கினார்.,references/ta_mms_reference.wav,கூடை,குடை,அம்மாக் பழங்களை ஒரு கூடை நிறைய வாங்கினார்,0.05128205128205128,0.16666666666666666,mms
+ta_009_edge,audio/ta_009_edge.wav,ta,ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது.,references/ta_edge_reference.wav,கரை,கறை,பஆற்றின் கரை அருகே ஒரு மரங்குள்ளது,0.12121212121212122,0.5,edge
+ta_009_gtts,audio/ta_009_gtts.wav,ta,ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது.,references/ta_gtts_reference.wav,கரை,கறை,ஆற்றின் கரையஅறுகை ஒரு மருங் ுள்ளது,0.18181818181818182,0.6666666666666666,gtts
+ta_009_human,audio/ta_009_human.wav,ta,"நல்ல உறையாடலுக்கு பொருமை, கவனம், தெளிவு, மட்டும் துணிவு ஆகியத் திறங்கள் தேவைப்படுக்கொண்டனா.",references/ta_human_reference_a.wav,,,நல்ல உரையாடலுக்குப பொறுமை கவனம் தெளிவு மற்றும் துணிவு ஆகிய திறங்கள் தேவைப்படுகின்றன,0.14942528735632185,0.5,human
+ta_009_mms,audio/ta_009_mms.wav,ta,ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது.,references/ta_mms_reference.wav,கரை,கறை,ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது,0.0,0.0,mms
+ta_010_edge,audio/ta_010_edge.wav,ta,என் சட்டையில் ஒரு சிறிய கறை உள்ளது.,references/ta_edge_reference.wav,கறை,கரை,என் சட்டையில் ஒரு சிறிய கரை உள்ளது,0.029411764705882353,0.16666666666666666,edge
+ta_010_gtts,audio/ta_010_gtts.wav,ta,என் சட்டையில் ஒரு சிறிய கறை உள்ளது.,references/ta_gtts_reference.wav,கறை,கரை,இன் சட்டையில் ஒரு சிறிய கரை ுள்ளது,0.08823529411764706,0.5,gtts
+ta_010_human,audio/ta_010_human.wav,ta,மரை பெய்துக்கொண்டு இருந்த போதில் குடந்தைகள் காலப்பந்து விளையாடிக்கொண்டு இருந்தார்கள்,references/ta_human_reference_a.wav,,,மறை பெரிது கொண்டிருந்தபோதிலும் குழந்தைகள் கால் பந்து விளையாடிக் கொண்டிருந்தார்கள்,0.21428571428571427,1.0,human
+ta_010_mms,audio/ta_010_mms.wav,ta,என் சட்டையில் ஒரு சிறிய கறை உள்ளது.,references/ta_mms_reference.wav,கறை,கரை,என் சட்டையில் ஒரு சிறிய கரை உள்ளது,0.029411764705882353,0.16666666666666666,mms
+ta_011_edge,audio/ta_011_edge.wav,ta,காலையில் புல்லின் மேல் பனி படிந்திருந்தது.,references/ta_edge_reference.wav,பனி,பணி,காலையில் புல்லின்வேல் பனி்படிந்திருந்தது,0.07317073170731707,0.8,edge
+ta_011_gtts,audio/ta_011_gtts.wav,ta,காலையில் புல்லின் மேல் பனி படிந்திருந்தது.,references/ta_gtts_reference.wav,பனி,பணி,காலையில் பொல்லின் மேல் பணி படிந்திருந்தது,0.04878048780487805,0.4,gtts
+ta_011_mms,audio/ta_011_mms.wav,ta,காலையில் புல்லின் மேல் பனி படிந்திருந்தது.,references/ta_mms_reference.wav,பனி,பணி,காலையில் புல்ளின் மேப பணிப் படிந்திருந்தது,0.14634146341463414,0.6,mms
+ta_012_edge,audio/ta_012_edge.wav,ta,அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்.,references/ta_edge_reference.wav,பணி,பனி,அவருத் தரது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்,0.06382978723404255,0.3333333333333333,edge
+ta_012_gtts,audio/ta_012_gtts.wav,ta,அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்.,references/ta_gtts_reference.wav,பணி,பனி,அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்,0.0,0.0,gtts
+ta_012_mms,audio/ta_012_mms.wav,ta,அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்.,references/ta_mms_reference.wav,பணி,பனி,அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்,0.0,0.0,mms
+ta_013_edge,audio/ta_013_edge.wav,ta,நாயின் வால் வேகமாக அசைந்தது.,references/ta_edge_reference.wav,வால்,வாள்,நாயென்பால் வேகமாக அசைந்தது,0.1111111111111111,0.5,edge
+ta_013_gtts,audio/ta_013_gtts.wav,ta,நாயின் வால் வேகமாக அசைந்தது.,references/ta_gtts_reference.wav,வால்,வாள்,நாயின் வால் வேகமாக அசைந்தது,0.0,0.0,gtts
+ta_013_mms,audio/ta_013_mms.wav,ta,நாயின் வால் வேகமாக அசைந்தது.,references/ta_mms_reference.wav,வால்,வாள்,நாயின் வால் வேகமாக அசைந்தது,0.0,0.0,mms
+ta_014_edge,audio/ta_014_edge.wav,ta,வீரன் தனது வாள் கொண்டு போரிட்டான்.,references/ta_edge_reference.wav,வாள்,வால்,வீரன் தனது வாழ்க் கொண்டு போரிட்டான்,0.09090909090909091,0.2,edge
+ta_014_gtts,audio/ta_014_gtts.wav,ta,வீரன் தனது வாள் கொண்டு போரிட்டான்.,references/ta_gtts_reference.wav,வாள்,வால்,வீரென் தனது வாழ்கொண்டு பூறிட்டான்,0.15151515151515152,0.8,gtts
+ta_014_mms,audio/ta_014_mms.wav,ta,வீரன் தனது வாள் கொண்டு போரிட்டான்.,references/ta_mms_reference.wav,வாள்,வால்,மீரன் தனது வாழ் கொண்டு போரிட்டான்,0.06060606060606061,0.4,mms
+ta_015_edge,audio/ta_015_edge.wav,ta,அந்த மலை மீது சிறிய கோவில் உள்ளது.,references/ta_edge_reference.wav,மலை,மாலை,அந்த மலைவீது சிறிய கோவில் உள்ளது,0.06060606060606061,0.3333333333333333,edge
+ta_015_gtts,audio/ta_015_gtts.wav,ta,அந்த மலை மீது சிறிய கோவில் உள்ளது.,references/ta_gtts_reference.wav,மலை,மாலை,அந்த மலைமீது சிறிய கோவில் உள்ளது,0.030303030303030304,0.3333333333333333,gtts
+ta_015_mms,audio/ta_015_mms.wav,ta,அந்த மலை மீது சிறிய கோவில் உள்ளது.,references/ta_mms_reference.wav,மலை,மாலை,அந்த மலைமீது சிறிய கோவில் உள்ளது,0.030303030303030304,0.3333333333333333,mms
+ta_016_edge,audio/ta_016_edge.wav,ta,இன்று மாலை நாம் கடைக்குச் செல்லலாம்.,references/ta_edge_reference.wav,மாலை,மலை,இன்று மாலை நாம் கடைக்குச் செல்லலாம்,0.0,0.0,edge
+ta_016_gtts,audio/ta_016_gtts.wav,ta,இன்று மாலை நாம் கடைக்குச் செல்லலாம்.,references/ta_gtts_reference.wav,மாலை,மலை,இன்று மாலை நாம் கடைக்குச் செல்லலாம்,0.0,0.0,gtts
+ta_016_mms,audio/ta_016_mms.wav,ta,இன்று மாலை நாம் கடைக்குச் செல்லலாம்.,references/ta_mms_reference.wav,மாலை,மலை,இன்று மாலை நாம் கடைக்குச் செல்லலாம்,0.0,0.0,mms
+ta_017_edge,audio/ta_017_edge.wav,ta,அவள் அழகான பட்டு புடவை அணிந்திருந்தாள்.,references/ta_edge_reference.wav,பட்டு,பாட்டு,அவள் அழகானப்பட்டு் புடவை அழிந்திருந்தாள்,0.10526315789473684,0.6,edge
+ta_017_gtts,audio/ta_017_gtts.wav,ta,அவள் அழகான பட்டு புடவை அணிந்திருந்தாள்.,references/ta_gtts_reference.wav,பட்டு,பாட்டு,அவள் அழகான பட்டுப்புடவை அணிந்திருந்தாள்,0.05263157894736842,0.4,gtts
+ta_017_mms,audio/ta_017_mms.wav,ta,அவள் அழகான பட்டு புடவை அணிந்திருந்தாள்.,references/ta_mms_reference.wav,பட்டு,பாட்டு,அவள் அலகானப்பட்டுக் புடவை கணிந்திருந்தாள்,0.15789473684210525,0.6,mms
+ta_018_edge,audio/ta_018_edge.wav,ta,இந்த பாட்டு எனக்கு மிகவும் பிடிக்கும்.,references/ta_edge_reference.wav,பாட்டு,பட்டு,இந்தப் பாட்டு எனக்கு மிகவும் பிடிக்கும்,0.05405405405405406,0.2,edge
+ta_018_gtts,audio/ta_018_gtts.wav,ta,இந்த பாட்டு எனக்கு மிகவும் பிடிக்கும்.,references/ta_gtts_reference.wav,பாட்டு,பட்டு,இந்தப் பாட்டு எனக்கு மிகவும் பிடிக்கும்,0.05405405405405406,0.2,gtts
+ta_018_mms,audio/ta_018_mms.wav,ta,இந்த பாட்டு எனக்கு மிகவும் பிடிக்கும்.,references/ta_mms_reference.wav,பாட்டு,பட்டு,இந்தப் பாட்டு எனக்கு மிகவும் விடிக்கும்,0.08108108108108109,0.4,mms
+ta_019_edge,audio/ta_019_edge.wav,ta,நீ சிறிது நேரம் படு என்று அம்மா சொன்னார்.,references/ta_edge_reference.wav,படு,பாடு,நீ சிறிது நேரம்படு என்று அம்மா சொன்னார்,0.025,0.2857142857142857,edge
+ta_019_gtts,audio/ta_019_gtts.wav,ta,நீ சிறிது நேரம் படு என்று அம்மா சொன்னார்.,references/ta_gtts_reference.wav,படு,பாடு,நீ சிறிது நேரும் படு என்று அம்மே சொன்னார்,0.05,0.2857142857142857,gtts
+ta_019_mms,audio/ta_019_mms.wav,ta,நீ சிறிது நேரம் படு என்று அம்மா சொன்னார்.,references/ta_mms_reference.wav,படு,பாடு,நீ சிறிது நேரம்படு என்று அம்மா சொன்னார்,0.025,0.2857142857142857,mms
+ta_020_edge,audio/ta_020_edge.wav,ta,ஒரு நல்ல பாடல் பாடு என்று அவன் கேட்டான்.,references/ta_edge_reference.wav,பாடு,படு,ஒரு நல்ல பாணல்பாணு என்று அவன் கேட்டான்,0.07692307692307693,0.2857142857142857,edge
+ta_020_gtts,audio/ta_020_gtts.wav,ta,ஒரு நல்ல பாடல் பாடு என்று அவன் கேட்டான்.,references/ta_gtts_reference.wav,பாடு,படு,ஒரு நல்ல பாடல் பாடு என்று அவன் கீட்டான்,0.02564102564102564,0.14285714285714285,gtts
+ta_020_mms,audio/ta_020_mms.wav,ta,ஒரு நல்ல பாடல் பாடு என்று அவன் கேட்டான்.,references/ta_mms_reference.wav,பாடு,படு,ஒரு நல்ல பாடல் பாடு என்று அவன் கேட்டான்,0.0,0.0,mms
+ta_021_edge,audio/ta_021_edge.wav,ta,இன்று வானம் தெளிவாக இருக்கிறது.,references/ta_edge_reference.wav,,,இன்று வானம் தெளிவாக இருக்கிறது,0.0,0.0,edge
+ta_021_gtts,audio/ta_021_gtts.wav,ta,இன்று வானம் தெளிவாக இருக்கிறது.,references/ta_gtts_reference.wav,,,இன்று வானம் தெளிவாக இருக்கிறது,0.0,0.0,gtts
+ta_021_mms,audio/ta_021_mms.wav,ta,இன்று வானம் தெளிவாக இருக்கிறது.,references/ta_mms_reference.wav,,,இந்து வானம் தெளிவாக இருக்கிறது,0.06666666666666667,0.25,mms
+ta_022_edge,audio/ta_022_edge.wav,ta,தயவுசெய்து கதவை மெதுவாக மூடுங்கள்.,references/ta_edge_reference.wav,,,தயவுசெய்து கதவை மெதுவாக மூடுங்கள்,0.0,0.0,edge
+ta_022_gtts,audio/ta_022_gtts.wav,ta,தயவுசெய்து கதவை மெதுவாக மூடுங்கள்.,references/ta_gtts_reference.wav,,,தயவு செய்து கதவை மெதுவாக மூடுங்கள்,0.030303030303030304,0.5,gtts
+ta_022_mms,audio/ta_022_mms.wav,ta,தயவுசெய்து கதவை மெதுவாக மூடுங்கள்.,references/ta_mms_reference.wav,,,தயவு செய்து கதவை மெதுவாக மூடுங்கள்,0.030303030303030304,0.5,mms
+ta_023_edge,audio/ta_023_edge.wav,ta,என் தங்கை நாளை வீட்டிற்கு வருவாள்.,references/ta_edge_reference.wav,,,என் தங்கை நாளை வீட்டிற்கு வருவாள்,0.0,0.0,edge
+ta_023_gtts,audio/ta_023_gtts.wav,ta,என் தங்கை நாளை வீட்டிற்கு வருவாள்.,references/ta_gtts_reference.wav,,,இன் தங்கை நாளை வீட்டிற்கு வருவாள்,0.030303030303030304,0.2,gtts
+ta_023_mms,audio/ta_023_mms.wav,ta,என் தங்கை நாளை வீட்டிற்கு வருவாள்.,references/ta_mms_reference.wav,,,என் தங்கை நாளை வீட்டிற்கு வருவாள்,0.0,0.0,mms
+ta_024_edge,audio/ta_024_edge.wav,ta,நாங்கள் ஞாயிற்றுக்கிழமை சேர்ந்து சமைப்போம்.,references/ta_edge_reference.wav,,,நாங்கள் ஞயாயற்றுக்கிழமை சேர்ந்து சமைப்போம்,0.047619047619047616,0.25,edge
+ta_024_gtts,audio/ta_024_gtts.wav,ta,நாங்கள் ஞாயிற்றுக்கிழமை சேர்ந்து சமைப்போம்.,references/ta_gtts_reference.wav,,,நாங்கள் நியாயிற்றிக்கிழமை் சேர்ந்து சமைப்போம்,0.11904761904761904,0.25,gtts
+ta_024_mms,audio/ta_024_mms.wav,ta,நாங்கள் ஞாயிற்றுக்கிழமை சேர்ந்து சமைப்போம்.,references/ta_mms_reference.wav,,,நான்கள் நாயிற்றுக் கிழமை சேர்ந்து சமைப்போம்,0.07142857142857142,0.75,mms
+ta_025_edge,audio/ta_025_edge.wav,ta,மேசையில் இருக்கும் புத்தகத்தை எடுத்துத் தருவாயா?,references/ta_edge_reference.wav,,,மேசையில் இருக்கும் புத்தரத்தை எடுத்துத்தருவாயா,0.0425531914893617,0.6,edge
+ta_025_gtts,audio/ta_025_gtts.wav,ta,மேசையில் இருக்கும் புத்தகத்தை எடுத்துத் தருவாயா?,references/ta_gtts_reference.wav,,,மேசையில் இருக்கும் புத்தகத்தை எடுத்துத்தருவாயா,0.02127659574468085,0.4,gtts
+ta_025_mms,audio/ta_025_mms.wav,ta,மேசையில் இருக்கும் புத்தகத்தை எடுத்துத் தருவாயா?,references/ta_mms_reference.wav,,,மேசையில் இருக்கும் புத்தகத்தை எடுத்துத் தருவாயா,0.0,0.0,mms
+ta_026_edge,audio/ta_026_edge.wav,ta,பேருந்து வர இன்னும் சிறிது நேரம் ஆகும்.,references/ta_edge_reference.wav,,,பேர்ந்து வரு இன்னும் சிறிது நேரம்பாகும்,0.10526315789473684,0.6666666666666666,edge
+ta_026_gtts,audio/ta_026_gtts.wav,ta,பேருந்து வர இன்னும் சிறிது நேரம் ஆகும்.,references/ta_gtts_reference.wav,,,வீறுந்து வர இன்னும் சிறிது நேரமாகும்,0.15789473684210525,0.5,gtts
+ta_026_mms,audio/ta_026_mms.wav,ta,பேருந்து வர இன்னும் சிறிது நேரம் ஆகும்.,references/ta_mms_reference.wav,,,பேர்ந்து வர இன்னும் சீது நேரமாகும்,0.18421052631578946,0.6666666666666666,mms
+ta_027_edge,audio/ta_027_edge.wav,ta,மழை நின்றதும் குழந்தைகள் வெளியே விளையாடச் சென்றனர்.,references/ta_edge_reference.wav,,,மறை நின்றதும் குழந்தைகள் வெளியே விளையாடச் சென்றனர்,0.02,0.16666666666666666,edge
+ta_027_gtts,audio/ta_027_gtts.wav,ta,மழை நின்றதும் குழந்தைகள் வெளியே விளையாடச் சென்றனர்.,references/ta_gtts_reference.wav,,,மழை நின்றதும் குழுந்தைகள் வெளியை விளையாடச் சென்றனர்,0.04,0.3333333333333333,gtts
+ta_027_mms,audio/ta_027_mms.wav,ta,மழை நின்றதும் குழந்தைகள் வெளியே விளையாடச் சென்றனர்.,references/ta_mms_reference.wav,,,மழை நின்றதும் குழந்தைகள் வெளியே விளையாடுச் சென்றனர்,0.02,0.16666666666666666,mms
+ta_028_edge,audio/ta_028_edge.wav,ta,இந்த சாலை நேராக சந்தைக்குச் செல்கிறது.,references/ta_edge_reference.wav,,,இந்தச் சாலை நேராகச் சந்தேக்குச் செல்கிறது,0.13513513513513514,0.6,edge
+ta_028_gtts,audio/ta_028_gtts.wav,ta,இந்த சாலை நேராக சந்தைக்குச் செல்கிறது.,references/ta_gtts_reference.wav,,,இந்தச் சாலை நேராகச் சந்திக்குச் செல்கிறது,0.13513513513513514,0.6,gtts
+ta_028_mms,audio/ta_028_mms.wav,ta,இந்த சாலை நேராக சந்தைக்குச் செல்கிறது.,references/ta_mms_reference.wav,,,இந்தச் சாலை நேராகிரே சந்தைக்குச் செல்கிறது,0.13513513513513514,0.4,mms
+ta_029_edge,audio/ta_029_edge.wav,ta,காலையில் தேநீர் குடிக்க எனக்குப் பிடிக்கும்.,references/ta_edge_reference.wav,,,காலையில் தேனேர் குடிக்க எனக்குப் பிடிக்கும்,0.046511627906976744,0.2,edge
+ta_029_gtts,audio/ta_029_gtts.wav,ta,காலையில் தேநீர் குடிக்க எனக்குப் பிடிக்கும்.,references/ta_gtts_reference.wav,,,காலையில் தேனீர்குடிக்க எனக்குப் பிடிக்கும்,0.046511627906976744,0.4,gtts
+ta_029_mms,audio/ta_029_mms.wav,ta,காலையில் தேநீர் குடிக்க எனக்குப் பிடிக்கும்.,references/ta_mms_reference.wav,,,காலையில் தேனீல் குடிக்க எனக்குப் பிடிக்கும்,0.046511627906976744,0.2,mms
+ta_030_edge,audio/ta_030_edge.wav,ta,எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்.,references/ta_edge_reference.wav,,,எல்லோரும் கேட்கும்படி கொஞ்சம் விதுவாகப் பேசுங்கள்,0.04081632653061224,0.2,edge
+ta_030_gtts,audio/ta_030_gtts.wav,ta,எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்.,references/ta_gtts_reference.wav,,,எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்,0.0,0.0,gtts
+ta_030_mms,audio/ta_030_mms.wav,ta,எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்.,references/ta_mms_reference.wav,,,எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசங்கள்,0.02040816326530612,0.2,mms
+ta_mp01_a_tts1,audio/ta_mp01_a_tts1.wav,ta,அவன் ஒரு கல்லை எடுத்தான்.,references/minimal_ta_tts1_reference_b.wav,கல்,கால்,அவன் ஒரு கல்லை எடுத்தான்,0.0,0.0,tts1
+ta_mp01_b_tts1,audio/ta_mp01_b_tts1.wav,ta,அவன் காலை நீட்டினான்.,references/minimal_ta_tts1_reference_a.wav,கால்,கல்,அவன் காலை நீட்டினான்,0.0,0.0,tts1
+ta_mp02_a_tts1,audio/ta_mp02_a_tts1.wav,ta,குழந்தைக்கு பல் முளைத்தது.,references/minimal_ta_tts1_reference_a.wav,பல்,பால்,குழந்தைக்குப் பல் முழைத்தது,0.12,0.6666666666666666,tts1
+ta_mp02_b_tts1,audio/ta_mp02_b_tts1.wav,ta,குழந்தைக்கு பால் கொடுத்தேன்.,references/minimal_ta_tts1_reference_a.wav,பால்,பல்,குழந்தைக்குப் பால் கொடுத்தேன்,0.07407407407407407,0.3333333333333333,tts1
+ta_mp03_a_tts1,audio/ta_mp03_a_tts1.wav,ta,அவனுக்கு புத்தகம் கொடு.,references/minimal_ta_tts1_reference_a.wav,கொடு,கோடு,அவனுக்குப் புத்தகம் கொடு,0.09090909090909091,0.3333333333333333,tts1
+ta_mp03_b_tts1,audio/ta_mp03_b_tts1.wav,ta,காகிதத்தில் ஒரு கோடு வரை.,references/minimal_ta_tts1_reference_a.wav,கோடு,கொடு,காகிதத்தில் ஒரு கோடு வரை,0.0,0.0,tts1
+ta_mp04_a_tts1,audio/ta_mp04_a_tts1.wav,ta,அவன் கீழே படுத்தான்.,references/minimal_ta_tts1_reference_a.wav,படு,பட்டு,அவன் கீவேபடுத்தான்,0.10526315789473684,0.6666666666666666,tts1
+ta_mp04_b_tts1,audio/ta_mp04_b_tts1.wav,ta,அவள் பட்டு சேலை அணிந்தாள்.,references/minimal_ta_tts1_reference_a.wav,பட்டு,படு,அவள் பட்டுச சேயலை அணிந்தாள்,0.08,0.5,tts1
+ta_mp05_a_tts2,audio/ta_mp05_a_tts2.wav,ta,நான் ஒரு படம் பார்த்தேன்.,references/minimal_ta_tts2_reference_b.wav,படம்,பட்டம்,நான் ஒரு படும்பார்த்தேன்,0.08333333333333333,0.5,tts2
+ta_mp05_b_tts2,audio/ta_mp05_b_tts2.wav,ta,அவன் பட்டம் விட்டான்.,references/minimal_ta_tts2_reference_a.wav,பட்டம்,படம்,அவன் பட்டும் விட்டான்,0.05,0.3333333333333333,tts2
+ta_mp06_a_tts2,audio/ta_mp06_a_tts2.wav,ta,அவள் மனம் மகிழ்ந்தது.,references/minimal_ta_tts2_reference_a.wav,மனம்,மணம்,அவள் மனம் மகிழ்ந்தது,0.0,0.0,tts2
+ta_mp06_b_tts2,audio/ta_mp06_b_tts2.wav,ta,பூவின் மணம் நன்றாக இருந்தது.,references/minimal_ta_tts2_reference_a.wav,மணம்,மனம்,பஊவின் மனம் நன்றாக இருந்தது,0.07407407407407407,0.5,tts2
+ta_mp07_a_tts2,audio/ta_mp07_a_tts2.wav,ta,காலையில் பனி பெய்தது.,references/minimal_ta_tts2_reference_a.wav,பனி,பணி,காலையில் பணிபெய்தது,0.1,0.6666666666666666,tts2
+ta_mp07_b_tts2,audio/ta_mp07_b_tts2.wav,ta,அவனுக்கு புதிய பணி கிடைத்தது.,references/minimal_ta_tts2_reference_a.wav,பணி,பனி,அவனுக்குப் புதியபணி கிடைத்தது,0.10714285714285714,0.75,tts2
+ta_mp08_a_tts3,audio/ta_mp08_a_tts3.wav,ta,கிராமத்தில் ஒரு குளம் உள்ளது.,references/minimal_ta_tts3_reference_b.wav,குளம்,குலம்,கிராமத்தில் ஒரு குழம் உள்ளது,0.03571428571428571,0.25,tts3
+ta_mp08_b_tts3,audio/ta_mp08_b_tts3.wav,ta,அவன் தன் குலத்தைப் பற்றி பேசினான்.,references/minimal_ta_tts3_reference_a.wav,குலம்,குளம்,அவன் தன் குலத்தைப் பட்டிப் பேசினான்,0.12121212121212122,0.2,tts3
+ta_mp09_a_tts3,audio/ta_mp09_a_tts3.wav,ta,கடலில் பெரிய அலை வந்தது.,references/minimal_ta_tts3_reference_a.wav,அலை,அழை,கடலில் பெரிய அழை வந்தது,0.043478260869565216,0.25,tts3
+ta_mp09_b_tts3,audio/ta_mp09_b_tts3.wav,ta,அவனை வீட்டிற்கு அழை.,references/minimal_ta_tts3_reference_a.wav,அழை,அலை,அவனை விற்றுக்காள்,0.5263157894736842,0.6666666666666666,tts3
+ta_mp10_a_tts3,audio/ta_mp10_a_tts3.wav,ta,நான் கடைக்குச் சென்றேன்.,references/minimal_ta_tts3_reference_a.wav,கடை,கதை,நான் கடைக்குச் சென்றேன்,0.0,0.0,tts3
+ta_mp10_b_tts3,audio/ta_mp10_b_tts3.wav,ta,அவள் ஒரு கதை சொன்னாள்.,references/minimal_ta_tts3_reference_a.wav,கதை,கடை,அவள் ஒருகரை சொன்னாள்,0.09523809523809523,0.5,tts3

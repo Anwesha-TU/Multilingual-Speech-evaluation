@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.592,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.7796630859375,
+  "rms": 0.12649123192000997,
+  "sha256": "0403d26638f62fd74001c35e627610bb76eb4d3506089c44ce74ddd640cbb6d4",
+  "clip_id": "hi_018_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "हमें दीन लोगों की मदद करनी चाहिए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1355,
+  "generated_at_utc": "2026-11-08T09:24:39.130101+00:00",
+  "raw_sha256": "c49cf7edffdaa6126a0563b15d9c6838e9f898ec5febd176143587101f8548eb",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

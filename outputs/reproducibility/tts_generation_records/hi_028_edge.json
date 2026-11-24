@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.584,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.844635009765625,
+  "rms": 0.15024399332634328,
+  "sha256": "c5fb54f61de2c9e14f71b6d6cede0f5e2b3e214709b2dd9d4ef8e2a83f25b83b",
+  "clip_id": "hi_028_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "यह रास्ता सीधे पुराने बाजार तक जाता है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:37.783939+00:00",
+  "raw_sha256": "e99f64b5c26af36eb0febc98576f60133411f4a2669aae13d665ba58d6f0a3cc",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

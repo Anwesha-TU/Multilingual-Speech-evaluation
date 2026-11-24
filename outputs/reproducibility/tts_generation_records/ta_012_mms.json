@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.296,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.575408935546875,
+  "rms": 0.1220748644623589,
+  "sha256": "783b5ab61d7dafd7f4df0437da6662b3bafe1223d3c6febecca2cc4099548ea1",
+  "clip_id": "ta_012_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1349,
+  "generated_at_utc": "2026-11-08T09:25:23.713125+00:00",
+  "raw_sha256": "97c6cfe65aafb5bd152014756c3a5da9c6351d58563208408b99971eed68ce30",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

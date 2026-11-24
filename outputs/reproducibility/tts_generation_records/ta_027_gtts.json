@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.392,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.429412841796875,
+  "rms": 0.12254104057365427,
+  "sha256": "fb9f44a537ec5494ba0cf0c303f199910c0427341adb27779b41a2e2ca8c6afc",
+  "clip_id": "ta_027_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "மழை நின்றதும் குழந்தைகள் வெளியே விளையாடச் சென்றனர்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:50.947910+00:00",
+  "raw_sha256": "0bd69a1eb371fb8e63b8f5fcbd88f41d1dc9f7371b35d13f86f4e7f31f2c2438",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

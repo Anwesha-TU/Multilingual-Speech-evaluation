@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.576,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.7728271484375,
+  "rms": 0.14493983120219905,
+  "sha256": "2c2a58becc6aff15940ae0dbeb391fa76b163f71893754cef6fc363fa3970bfd",
+  "clip_id": "hi_026_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "बस आने में अभी थोड़ा समय लगेगा।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:34.629906+00:00",
+  "raw_sha256": "652ddab007ffe0efc8b71d33dbd6667da486c0374665c38bf0425fef73822267",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

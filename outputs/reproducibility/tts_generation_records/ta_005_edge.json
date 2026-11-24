@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.52,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.53582763671875,
+  "rms": 0.08137434474236963,
+  "sha256": "3660268d2e5db2a34c0c0465d477131c51fce77ebe3f2519cb0e1d80f6ccb8c3",
+  "clip_id": "ta_005_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "இந்த குடம் முழுவதும் தண்ணீர் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:49.168815+00:00",
+  "raw_sha256": "e17e6061ac1f63c750990e2ec3b64c17e8dd0a204b053645b1094c62129fd5e9",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

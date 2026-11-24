@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.576,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.918426513671875,
+  "rms": 0.14813437442765506,
+  "sha256": "f83811944312b07cb41351dbabbc02d1ec10ca2e72ec39e1268305d4dfd19656",
+  "clip_id": "hi_014_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "ठंड लगने पर दादी ने शाल ओढ़ ली।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1351,
+  "generated_at_utc": "2026-11-08T09:24:33.152819+00:00",
+  "raw_sha256": "b86aa09205c69ba2a9f8c97d796de94ee836b4fa9816a32b475f82cacf2c0079",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

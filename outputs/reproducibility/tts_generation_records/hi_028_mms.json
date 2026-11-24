@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.184,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.8829345703125,
+  "rms": 0.18460686733185228,
+  "sha256": "3cb7cdf05fdcd657a30b9d954c827129b621c1e8a44f09e21897cef584cdda2d",
+  "clip_id": "hi_028_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "यह रास्ता सीधे पुराने बाजार तक जाता है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1365,
+  "generated_at_utc": "2026-11-08T09:24:57.187807+00:00",
+  "raw_sha256": "b1407c416742afe27db7e7452dec92ff9acc800e3ab2c80a98fcd320c9315248",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

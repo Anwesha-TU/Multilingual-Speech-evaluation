@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.392,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.77740478515625,
+  "rms": 0.12695151225143528,
+  "sha256": "4fcaff565656a2edb556d099389e86958379b5488a6c2cbf227dbba8f4f7f747",
+  "clip_id": "ta_009_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1346,
+  "generated_at_utc": "2026-11-08T09:25:17.822220+00:00",
+  "raw_sha256": "a5e43a0d62d04849620bf5937d5598ee84623683cfb34835580ba6ea6b50770b",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

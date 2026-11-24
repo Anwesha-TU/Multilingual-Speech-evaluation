@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.4,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.531402587890625,
+  "rms": 0.08629157155427715,
+  "sha256": "f839eae71c201681b853148ce1e47ee7acc399019778ff76098a16c07b0d350b",
+  "clip_id": "ta_021_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "இன்று வானம் தெளிவாக இருக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:20.692673+00:00",
+  "raw_sha256": "2bb734c8747492d052aefa15328d295ceae61bd975786b4f1aeea12b07f4e011",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

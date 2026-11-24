@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 4.256,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.72705078125,
+  "rms": 0.12589303557676854,
+  "sha256": "b1afc7074699cf96206752282b3c018ab3fd9c1d444a1d5a4758a82b010b6dfe",
+  "clip_id": "ta_019_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "நீ சிறிது நேரம் படு என்று அம்மா சொன்னார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1356,
+  "generated_at_utc": "2026-11-08T09:25:36.422860+00:00",
+  "raw_sha256": "44061e76b672b0a45d074ac6b736c4d1fb0a18ecc1540b20ae1e825974c8554a",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

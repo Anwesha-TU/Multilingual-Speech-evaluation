@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.784,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.49639892578125,
+  "rms": 0.09306985452187445,
+  "sha256": "91b78dad6992d110d278a20dff2b954c96d6dd0fa5f2b16e4d74f284521842e8",
+  "clip_id": "ta_009_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:57.100054+00:00",
+  "raw_sha256": "e42fce6ebdec6a48736cd45d837e72769222630787a0b39c6dde35e2016b004c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.72,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.89910888671875,
+  "rms": 0.150174524392744,
+  "sha256": "4b21ca5720fa22c2735761db31edb6688c36462f24cbb46e8ce9029e88361e8b",
+  "clip_id": "hi_012_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "साँप पास आए तो वह डस सकता है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1349,
+  "generated_at_utc": "2026-11-08T09:24:29.934851+00:00",
+  "raw_sha256": "332967ef2ffb374523f3028447403de46e79e1932c1b2c1c6c247836aeec77e3",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

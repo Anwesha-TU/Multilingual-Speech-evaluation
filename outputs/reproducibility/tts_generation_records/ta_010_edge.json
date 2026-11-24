@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.736,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.538726806640625,
+  "rms": 0.079623742598104,
+  "sha256": "29e0a29f65133aead994954f3f5b758dfe6082bd6a6476193b603c16f4a2064d",
+  "clip_id": "ta_010_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "என் சட்டையில் ஒரு சிறிய கறை உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:58.721051+00:00",
+  "raw_sha256": "ff576b1d58e3594ccc84ae552c70a2b89b26daee2d2937c8ec84e281f04101d4",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

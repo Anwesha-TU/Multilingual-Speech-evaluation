@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.52,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.5213623046875,
+  "rms": 0.0765014199160608,
+  "sha256": "80b27bffb1d492c6b39ba8bdd235ad289dee80269d08a3a89a481db57b1a9060",
+  "clip_id": "ta_023_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "என் தங்கை நாளை வீட்டிற்கு வருவாள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:24.445927+00:00",
+  "raw_sha256": "00c1b24fe3b02bb01440944ae3372406e1fc9e24a41259350a0a6e22cf47af53",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

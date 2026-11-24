@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.36,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.781005859375,
+  "rms": 0.15578266506235552,
+  "sha256": "4f2ec91381224b87c43e6badfafaf2c84ba55c8a647fa88b7397b36dcc5ed4f9",
+  "clip_id": "hi_001_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "यह पल मुझे हमेशा याद रहेगा।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:20:55.201313+00:00",
+  "raw_sha256": "39088ae106ed9a5a4d168c47294b3abef444dfc4bf6f7990514839fa2c27966d",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

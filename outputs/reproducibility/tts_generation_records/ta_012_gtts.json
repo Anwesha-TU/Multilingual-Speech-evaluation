@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.84,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.44635009765625,
+  "rms": 0.10988172066074968,
+  "sha256": "02b813245b871b8181084b86860c05a0c90e7d4851f5798c31850ebe7c65c0af",
+  "clip_id": "ta_012_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:31.379463+00:00",
+  "raw_sha256": "4ab0b6d39adb786fb9185c893e1d1ba5101ff4316f2b18d1607a2e5b02c98b1c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

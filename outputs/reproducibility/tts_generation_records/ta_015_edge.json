@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.88,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.50775146484375,
+  "rms": 0.08117727105292943,
+  "sha256": "6a1918ea2ee580d272c10a53b3003ca04c1ce48acca5f81ce3c6a41c334f379e",
+  "clip_id": "ta_015_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "அந்த மலை மீது சிறிய கோவில் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:09.358355+00:00",
+  "raw_sha256": "04936a7508db85eecc83de375a847719bc71689c800ad2729b6c45680744b444",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,334 @@
+{
+  "status": "development_results_only",
+  "excluded_non_independent_rows": 58,
+  "reviews": 422,
+  "ratings": 1266,
+  "heard_words": 278,
+  "missing_second_reviews": 58,
+  "cleaning_changes": 0,
+  "coverage": [
+    {
+      "file": "hi_set_1.csv",
+      "reviews": 120,
+      "distinct_clips": 120,
+      "missing_clips": 0,
+      "contributors": 4
+    },
+    {
+      "file": "hi_set_2.csv",
+      "reviews": 120,
+      "distinct_clips": 120,
+      "missing_clips": 0,
+      "contributors": 12
+    },
+    {
+      "file": "ta_set_1.csv",
+      "reviews": 120,
+      "distinct_clips": 120,
+      "missing_clips": 0,
+      "contributors": 3
+    },
+    {
+      "file": "ta_set_2_completed.csv",
+      "reviews": 62,
+      "distinct_clips": 62,
+      "missing_clips": 58,
+      "contributors": 4
+    }
+  ],
+  "results": [
+    {
+      "track": 1,
+      "part": 4,
+      "language": "hi",
+      "system": "current",
+      "measure": "agreement",
+      "value": 0.14604075713062267,
+      "n_items": 241
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "hi",
+      "system": "current",
+      "measure": "word_identification",
+      "value": 0.6164383561643836,
+      "n_items": 73
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "ta",
+      "system": "current",
+      "measure": "agreement",
+      "value": -0.008061323321509495,
+      "n_items": 154
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "ta",
+      "system": "current",
+      "measure": "word_identification",
+      "value": 0.5294117647058824,
+      "n_items": 34
+    }
+  ],
+  "breakdown": [
+    {
+      "track": 1,
+      "part": 4,
+      "language": "hi",
+      "system": "current",
+      "measure": "agreement_naturalness",
+      "value": 0.05518263855718154,
+      "n_items": 68
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "hi",
+      "system": "current",
+      "measure": "agreement_pronunciation",
+      "value": 0.18895974922770162,
+      "n_items": 84
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "hi",
+      "system": "current",
+      "measure": "agreement_speaker_similarity",
+      "value": 0.19397988360698484,
+      "n_items": 89
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "hi",
+      "system": "current",
+      "measure": "word_identification",
+      "value": 0.6164383561643836,
+      "n_items": 73
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "ta",
+      "system": "current",
+      "measure": "agreement_naturalness",
+      "value": -0.19804003847514207,
+      "n_items": 49
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "ta",
+      "system": "current",
+      "measure": "agreement_pronunciation",
+      "value": -0.08188392036136356,
+      "n_items": 53
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "ta",
+      "system": "current",
+      "measure": "agreement_speaker_similarity",
+      "value": 0.25573998887197713,
+      "n_items": 52
+    },
+    {
+      "track": 1,
+      "part": 4,
+      "language": "ta",
+      "system": "current",
+      "measure": "word_identification",
+      "value": 0.5294117647058824,
+      "n_items": 34
+    }
+  ],
+  "eligibility": [
+    {
+      "language": "hi",
+      "measure": "agreement_naturalness",
+      "available_two_ratings": 120,
+      "usable": 68,
+      "required": 30,
+      "qualified": true,
+      "reason": "Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+    },
+    {
+      "language": "hi",
+      "measure": "agreement_pronunciation",
+      "available_two_ratings": 120,
+      "usable": 84,
+      "required": 30,
+      "qualified": true,
+      "reason": "Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+    },
+    {
+      "language": "hi",
+      "measure": "agreement_speaker_similarity",
+      "available_two_ratings": 120,
+      "usable": 89,
+      "required": 30,
+      "qualified": true,
+      "reason": "Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+    },
+    {
+      "language": "hi",
+      "measure": "word_identification",
+      "available_two_ratings": 80,
+      "usable": 73,
+      "required": 10,
+      "qualified": true,
+      "reason": "Only identical actual heard-word labels, including unclear"
+    },
+    {
+      "language": "hi",
+      "measure": "pairwise_ranking_naturalness",
+      "available_two_ratings": 90,
+      "usable": 8,
+      "required": 10,
+      "qualified": false,
+      "reason": "90 reference-eligible; 13 same-real-rater pairs; then strict agreement"
+    },
+    {
+      "language": "hi",
+      "measure": "pairwise_ranking_speaker_similarity",
+      "available_two_ratings": 90,
+      "usable": 0,
+      "required": 10,
+      "qualified": false,
+      "reason": "0 reference-eligible; 0 same-real-rater pairs; then strict agreement"
+    },
+    {
+      "language": "ta",
+      "measure": "agreement_naturalness",
+      "available_two_ratings": 62,
+      "usable": 49,
+      "required": 30,
+      "qualified": true,
+      "reason": "Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+    },
+    {
+      "language": "ta",
+      "measure": "agreement_pronunciation",
+      "available_two_ratings": 62,
+      "usable": 53,
+      "required": 30,
+      "qualified": true,
+      "reason": "Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+    },
+    {
+      "language": "ta",
+      "measure": "agreement_speaker_similarity",
+      "available_two_ratings": 62,
+      "usable": 52,
+      "required": 30,
+      "qualified": true,
+      "reason": "Mixed real raters across clips; development correlation, not a fixed-listener official ceiling"
+    },
+    {
+      "language": "ta",
+      "measure": "word_identification",
+      "available_two_ratings": 38,
+      "usable": 34,
+      "required": 10,
+      "qualified": true,
+      "reason": "Only identical actual heard-word labels, including unclear"
+    },
+    {
+      "language": "ta",
+      "measure": "pairwise_ranking_naturalness",
+      "available_two_ratings": 24,
+      "usable": 3,
+      "required": 10,
+      "qualified": false,
+      "reason": "24 reference-eligible; 11 same-real-rater pairs; then strict agreement"
+    },
+    {
+      "language": "ta",
+      "measure": "pairwise_ranking_speaker_similarity",
+      "available_two_ratings": 24,
+      "usable": 0,
+      "required": 10,
+      "qualified": false,
+      "reason": "0 reference-eligible; 0 same-real-rater pairs; then strict agreement"
+    }
+  ],
+  "fixed_listener_pair_analysis": [
+    {
+      "language": "hi",
+      "criterion": "naturalness",
+      "rater_1": "r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17",
+      "rater_2": "r_b6322a0b-6294-479b-b757-15895170dd9c",
+      "pair_overlap": 45,
+      "eligible_clips": 19,
+      "qualified": false,
+      "spearman": null,
+      "human_ceiling": null
+    },
+    {
+      "language": "hi",
+      "criterion": "pronunciation",
+      "rater_1": "r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17",
+      "rater_2": "r_b6322a0b-6294-479b-b757-15895170dd9c",
+      "pair_overlap": 45,
+      "eligible_clips": 34,
+      "qualified": true,
+      "spearman": 0.3435372367824417,
+      "human_ceiling": 0.5618609255663828
+    },
+    {
+      "language": "hi",
+      "criterion": "speaker_similarity",
+      "rater_1": "r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17",
+      "rater_2": "r_b6322a0b-6294-479b-b757-15895170dd9c",
+      "pair_overlap": 45,
+      "eligible_clips": 37,
+      "qualified": true,
+      "spearman": 0.42150899013580967,
+      "human_ceiling": 0.5464388527222956
+    },
+    {
+      "language": "ta",
+      "criterion": "naturalness",
+      "rater_1": "r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a",
+      "rater_2": "r_e5fd48ac-ba90-4859-b337-e0a6840d74e8",
+      "pair_overlap": 39,
+      "eligible_clips": 30,
+      "qualified": true,
+      "spearman": -0.26471190379203174,
+      "human_ceiling": 0.5166405031782016
+    },
+    {
+      "language": "ta",
+      "criterion": "pronunciation",
+      "rater_1": "r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a",
+      "rater_2": "r_e5fd48ac-ba90-4859-b337-e0a6840d74e8",
+      "pair_overlap": 39,
+      "eligible_clips": 33,
+      "qualified": true,
+      "spearman": 0.12277834489367716,
+      "human_ceiling": 0.5206565275598277
+    },
+    {
+      "language": "ta",
+      "criterion": "speaker_similarity",
+      "rater_1": "r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a",
+      "rater_2": "r_e5fd48ac-ba90-4859-b337-e0a6840d74e8",
+      "pair_overlap": 39,
+      "eligible_clips": 33,
+      "qualified": true,
+      "spearman": 0.2574743725951773,
+      "human_ceiling": 0.45184805705753195
+    }
+  ],
+  "baseline": "No separate baseline outputs or approval supplied. No baseline values, improvement, difference CI, or competition points invented.",
+  "listener_design": "Coverage sets combine real listeners. Main correlations use per-clip means and the <=1 filter; they are descriptive development results. Fixed-pair analysis separately reports genuine listener ceilings. Coverage sets are not independent contributed datasets.",
+  "n_items": "Agreement headline n_items is the number of eligible clip-criterion observations; a clip can count once in each of three criteria. Breakdown gives actual clips per criterion.",
+  "missing_data": "No extrapolation or imputation. Missing second reviews do not enter two-listener metrics.",
+  "uncertainty": "No official paired bootstrap improvement CI is computable without a separately specified baseline and official seed. Point estimates are not official competition scores."
+}

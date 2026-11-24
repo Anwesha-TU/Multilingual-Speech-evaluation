@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.456,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.32470703125,
+  "rms": 0.09891796304207197,
+  "sha256": "cdce76483bf04a1c6911a56bcfeb1b57ecd2d16ebe92ff1018b7a7ed3a9dc01a",
+  "clip_id": "ta_009_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "ஆற்றின் கரை அருகே ஒரு மரம் உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:28.521678+00:00",
+  "raw_sha256": "c5b31381875a1979e845f95c636f38518971f6ef1c475f50ccf82229285df557",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.816,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.36639404296875,
+  "rms": 0.10614387136842533,
+  "sha256": "dca98e325a928e2b61c386057cd694fa0c05e92fe8e6b5eb910ebb30834f17dc",
+  "clip_id": "ta_028_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "இந்த சாலை நேராக சந்தைக்குச் செல்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:52.085383+00:00",
+  "raw_sha256": "2290e4c9cda04c02aeef2b6c719e33aaca3651f8608f029d30d1f673b27d79b0",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

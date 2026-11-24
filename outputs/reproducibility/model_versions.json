@@ -1,0 +1,19 @@
+{
+  "python": "3.12.10",
+  "torch": "2.7.1+cu118",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce MX250",
+  "weights": {
+    "whisper_small": {
+      "path": "C:\\Users\\user\\.cache\\whisper\\small.pt",
+      "sha256": "9ecf779972d90ba49c06d968637d720dd632c55bbf19d441fb42bf17a411e794"
+    },
+    "speechmos_cached_files": {
+      "C:\\Users\\user\\.cache\\torch\\hub\\checkpoints\\utmos22_strong_step7459_v1.pt": "38aa51ab79e2a4e09a1449758a4b37e9cbb2e8235a49662a732d33a9ba1e9bff"
+    },
+    "wavlm_revision": "feb593a6c23c1cc3d9510425c29b0a14d2b07b1e",
+    "wavlm_files": {
+      "C:\\Users\\user\\.cache\\huggingface\\hub\\models--microsoft--wavlm-base-plus-sv\\snapshots\\feb593a6c23c1cc3d9510425c29b0a14d2b07b1e\\pytorch_model.bin": "e906bce2fa42fb497a1d1a9ecf81548adb7e03b12a5644e32d2f42f0d6500fad"
+    }
+  }
+}

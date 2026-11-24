@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.96,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.381317138671875,
+  "rms": 0.11568968785203086,
+  "sha256": "94b2a729979e168ad29c4630a3f1fddbf448e0a8ee05a544c81b529f8a134183",
+  "clip_id": "ta_004_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "நீண்ட நேரம் நடந்ததால் என் கால் வலிக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:22.648046+00:00",
+  "raw_sha256": "e524520fc44177065abe6e8556dc1b18d576669f18a464a018b227144e4c1d12",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

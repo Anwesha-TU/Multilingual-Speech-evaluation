@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.64,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.904937744140625,
+  "rms": 0.14897814528888556,
+  "sha256": "0c20d587ac3040645fceca2e7297024ab7133035d8f74bcbd1948fb82c597a91",
+  "clip_id": "hi_001_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "यह पल मुझे हमेशा याद रहेगा।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1338,
+  "generated_at_utc": "2026-11-08T09:22:46.851331+00:00",
+  "raw_sha256": "4f2cf4cf6e3e062e35b4a2c952cb914fafeebfeb153f390796d53971f3dadd49",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.648,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.4239501953125,
+  "rms": 0.12537024612121467,
+  "sha256": "9925819fe7a0778670fffee2a7f0dd54458006e11a268c525bd0cc9f6123d72c",
+  "clip_id": "ta_019_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "நீ சிறிது நேரம் படு என்று அம்மா சொன்னார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:41.961133+00:00",
+  "raw_sha256": "c99d1ab7b5639065336599d49b6a3f7d6c8b597cbfadf2c9126c53e011d1238b",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

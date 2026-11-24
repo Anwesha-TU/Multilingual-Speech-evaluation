@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.696,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.897064208984375,
+  "rms": 0.1320109017716273,
+  "sha256": "66f7bb28e7a9b99eee4856294e373ba6e15e3e9b5f24979a6b3b287d8e753282",
+  "clip_id": "hi_022_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "कृपया खिड़की खोल दीजिए और पंखा बंद कर दीजिए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1359,
+  "generated_at_utc": "2026-11-08T09:24:47.029046+00:00",
+  "raw_sha256": "eb937c21054f818544af7da6e3dedcb3cb5baa0a2ac11b3b3486de33e67d7dcf",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

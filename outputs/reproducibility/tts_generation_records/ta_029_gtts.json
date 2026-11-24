@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.48,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.398162841796875,
+  "rms": 0.10971251778379028,
+  "sha256": "826f2abb44de00e98ef610e1d53a5deb4b0f65e3ea8841a48f64b9c0ffc57565",
+  "clip_id": "ta_029_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "காலையில் தேநீர் குடிக்க எனக்குப் பிடிக்கும்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:53.116789+00:00",
+  "raw_sha256": "0cc3f2f1dcac84de2bb8bbc6da810fdfd84c91db3e51dc29be11298e5442eedc",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

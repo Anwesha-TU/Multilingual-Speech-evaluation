@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.952,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.495147705078125,
+  "rms": 0.11132389827620186,
+  "sha256": "ac80674371894df1984fd8df170f5c75b0a77f2027c79d584c25833eb273962f",
+  "clip_id": "hi_006_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "किसान खेत में धान उगा रहा है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:52.696543+00:00",
+  "raw_sha256": "ee55bd2d495904667da953f6c6890a68c06734767a9a433e6940904c51e337f1",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

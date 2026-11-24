@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.88,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.387908935546875,
+  "rms": 0.10615919559531022,
+  "sha256": "04f20a3f280ad69aa8b62b1e5e83ca91e3d4e12b9fcc8da9f84c8b17d5cc6705",
+  "clip_id": "ta_002_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "குழந்தை காலையில் பால் குடித்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:20.659362+00:00",
+  "raw_sha256": "f7c6b312c67e8c1a97d23259c237b9915a854b31dcb8db1ea620262d62ffbade",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

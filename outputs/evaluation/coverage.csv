@@ -1,0 +1,5 @@
+file,reviews,distinct_clips,missing_clips,contributors
+hi_set_1.csv,120,120,0,4
+hi_set_2.csv,120,120,0,12
+ta_set_1.csv,120,120,0,3
+ta_set_2_completed.csv,62,62,58,4

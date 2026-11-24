@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.032,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.8572998046875,
+  "rms": 0.12937922303112934,
+  "sha256": "fe9dbb6a573549b10131600b100d40820305988a63b0fd60c0c93238c67fab11",
+  "clip_id": "hi_012_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "साँप पास आए तो वह डस सकता है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:07.540346+00:00",
+  "raw_sha256": "b676dc8efdd59b2f7d52d9fbc3df9e00b0398abdb00277a632e6c2fda7c51f2b",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

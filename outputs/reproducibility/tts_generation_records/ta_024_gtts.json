@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.624,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.427764892578125,
+  "rms": 0.11606123116998512,
+  "sha256": "c2d9380ae2e9534fc73cc67eeb187cc6f5cec41fcbff70d3e9f62208d6a0e4e9",
+  "clip_id": "ta_024_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "நாங்கள் ஞாயிற்றுக்கிழமை சேர்ந்து சமைப்போம்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:47.439246+00:00",
+  "raw_sha256": "1aeb96392926f822d25d4073ca6c186d741d41551f931934a0c6fb96dd06dae8",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

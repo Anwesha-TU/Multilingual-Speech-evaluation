@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.648,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.435211181640625,
+  "rms": 0.10060853111905219,
+  "sha256": "9eef53bf128a74eea4347a21d51a228885ad258474ae88178f3d0415bf4d7c75",
+  "clip_id": "ta_017_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "அவள் அழகான பட்டு புடவை அணிந்திருந்தாள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:39.381769+00:00",
+  "raw_sha256": "430140d09e73f0b21a4e0c852adafe7e1351874cfba610c9b08a67d39cfd6d0a",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

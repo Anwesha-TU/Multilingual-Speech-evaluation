@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.024,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.6259765625,
+  "rms": 0.08159737091378262,
+  "sha256": "2e0190c45030d46eca0adc86af600907a1eb1438a860d3b09b1f003a01184426",
+  "clip_id": "ta_012_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "அவர் தனது பணி முடிந்ததும் வீட்டுக்குச் சென்றார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:02.892214+00:00",
+  "raw_sha256": "8a88bbef5bca1ce2f67c4bcadfa510e551fc8ea7162f4354f5db8c7ad3916a5c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

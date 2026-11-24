@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.344,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.7574462890625,
+  "rms": 0.13199054976190355,
+  "sha256": "d504f22d560e948d0aec3111cc3a03edc812897bc20747ed65c29b1031c4c0bf",
+  "clip_id": "hi_023_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "मेरी बहन शाम को पुस्तकालय से वापस आएगी।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:29.106925+00:00",
+  "raw_sha256": "fad6d5fe4f9893fe02448b044907d3958cd270653153a3432d01284470418736",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.96,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.633209228515625,
+  "rms": 0.09532708187838594,
+  "sha256": "36d66577dc46dacc499ae11096a6ddfdbab72979f847076a7d7b78d5b3691db8",
+  "clip_id": "hi_029_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "मुझे सुबह चाय के साथ अखबार पढ़ना पसंद है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:17.510124+00:00",
+  "raw_sha256": "4ebad1065734292539a030fa2c8ca06cce5ee4898f847bc03d2cd41868ffa952",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

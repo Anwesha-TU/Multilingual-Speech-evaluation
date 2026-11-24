@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.792,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.396484375,
+  "rms": 0.11454785701616421,
+  "sha256": "fcd8a9889c4d0c769b7000b2a3cce4297106cd64765ea6623ca91bb5bbd6c1e7",
+  "clip_id": "ta_008_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "அம்மா பழங்களை ஒரு கூடை நிறைய வாங்கினார்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:26.230360+00:00",
+  "raw_sha256": "a78e619160b5f0b153cf8f8f5faf54e6f481fee9774c767c5715047792b30672",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

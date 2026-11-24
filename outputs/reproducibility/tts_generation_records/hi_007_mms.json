@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.024,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.911712646484375,
+  "rms": 0.12269675000302545,
+  "sha256": "56067de2630a4bda3f594172fa7f92361872b6ce10045a211a2a0d372a5224cf",
+  "clip_id": "hi_007_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "तुम्हारी बात सुनकर मुझे खुशी हुई।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1344,
+  "generated_at_utc": "2026-11-08T09:24:22.705024+00:00",
+  "raw_sha256": "f36b5aeb43a84e38a260e3566b060ce10eb34371908b312400987765408a954a",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

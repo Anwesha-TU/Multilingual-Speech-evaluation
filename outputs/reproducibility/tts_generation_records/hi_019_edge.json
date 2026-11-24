@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.744,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.45257568359375,
+  "rms": 0.08877434675486756,
+  "sha256": "9b1935a4d6269f3649775e0c68ff523775f89fa72a197b168a80422d982eb42f",
+  "clip_id": "hi_019_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "एक बैल धीरे धीरे खेत की ओर चला।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:21.536569+00:00",
+  "raw_sha256": "2bdb1c0a4fabe3e8dda25d145db81b82b3b3e31b8796c3a9dcaa3dce1afe8a9c",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

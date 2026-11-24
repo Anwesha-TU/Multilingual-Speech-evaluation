@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.24,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.610076904296875,
+  "rms": 0.11137767219091838,
+  "sha256": "d63a2455db43618c28bae58401074ab7460f82c0cca25d4e7603691183965796",
+  "clip_id": "hi_008_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "आज दोपहर हमने दाल और भात खाया।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:54.442025+00:00",
+  "raw_sha256": "72b47500f940fb72f2bd6ed5e606acf21d6796b00d767730a3aefa74d4c50de1",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

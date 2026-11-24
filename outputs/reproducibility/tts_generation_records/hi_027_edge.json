@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.128,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.724273681640625,
+  "rms": 0.12583895997054537,
+  "sha256": "e70f31e8b5c69fac288a84e25cee06bfa08d955bc24fc7596dc7ae798df5770d",
+  "clip_id": "hi_027_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "बारिश रुकने के बाद बच्चे बाहर खेलने गए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:36.209891+00:00",
+  "raw_sha256": "061691d460c7f27afd0d61f2bd19607f889028ea134a34583c5f1be3047f1ca9",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

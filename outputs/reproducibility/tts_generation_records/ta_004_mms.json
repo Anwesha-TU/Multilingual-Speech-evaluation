@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.904,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.73187255859375,
+  "rms": 0.15783027039928066,
+  "sha256": "9d35e373f03fd9d49a69e4b9c2206b10f7976840383c0aab6859a3fc751c43df",
+  "clip_id": "ta_004_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "நீண்ட நேரம் நடந்ததால் என் கால் வலிக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1341,
+  "generated_at_utc": "2026-11-08T09:25:08.292662+00:00",
+  "raw_sha256": "1ca9aa0e8c2e7097ccb40f41a58ada509a0917ea141cba440950b5d11400d8a4",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

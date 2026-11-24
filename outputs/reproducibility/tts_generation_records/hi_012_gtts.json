@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.072,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.53643798828125,
+  "rms": 0.09059112895928258,
+  "sha256": "b837f063d3365b1dc897ae784423de9d0f76c148e2d2a5904bfd69a05a296db5",
+  "clip_id": "hi_012_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "साँप पास आए तो वह डस सकता है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:58.608190+00:00",
+  "raw_sha256": "f4b86b078423a297efed50da1de9d90fbfb1750d8429556eac784985e1c6a8a8",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

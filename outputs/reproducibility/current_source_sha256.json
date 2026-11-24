@@ -1,0 +1,11 @@
+{
+  "audio.py": "6338574e27fa7ec26238f90c874493b84fb53efd78b5f629d4f7cc1b94167b3d",
+  "evaluate.py": "4fa93c77835279fb7af6bbd136e96b283374761c35d74bd9dcc2ba70ad7c4571",
+  "main.py": "afad0f51c10ed838d39076a73e8cf2d790b4a3164550e456287083b04be5a292",
+  "naturalness.py": "03e8f9a95416e47155cff186e9e1c4450897c554e70bbf11d044a0ea6bd9d673",
+  "pronunciation.py": "0be9cbd8fa2a5e2efbce6be4b6dd1443e8bc7811955432f277e58ecde926bee1",
+  "schema.py": "ab5d6a0b179bc7a9dfbc5f12e34d4c8ad41d1fb7fed494bb589bf0d24eb58a05",
+  "score_results.py": "84bfac9fe4ad598d149cdb99835f151d5258b2ecfe1c558e893976273e91c80a",
+  "similarity.py": "4731f89f95bdd35839f2835c5c1d0db791f12d8e5e57a5761628582f28952a20",
+  "text_methods.py": "9c551dcd45bf1e2ce0b57cd56a63c771a27c039e01bb08dff495c04d7cdcd09d"
+}

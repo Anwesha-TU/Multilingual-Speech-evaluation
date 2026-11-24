@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.36,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.455718994140625,
+  "rms": 0.10913199568469664,
+  "sha256": "b6c23d365b800df88ffb78fbb175ec2c771c96d74e0172e110da86623ced8757",
+  "clip_id": "hi_024_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "हम सब रविवार को मिलकर खाना बनाएँगे।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:12.719453+00:00",
+  "raw_sha256": "0d9fdeaa2d2614e02ddc4f02ffc8992e21b86ef78edaea2e70e4ce0af2559fa3",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

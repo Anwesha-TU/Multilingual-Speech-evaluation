@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.096,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.517059326171875,
+  "rms": 0.09716604358083253,
+  "sha256": "862167ccaeb6113e0cd15422d1ef4281114fda321209e5e221aa0b53ab5ee581",
+  "clip_id": "hi_009_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "उसने आज एक काली कमीज पहनी है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:55.515276+00:00",
+  "raw_sha256": "46c3709672fb99deb3e56551b858fd8326e6f1960ffeee6bc50c2a10499b50ee",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

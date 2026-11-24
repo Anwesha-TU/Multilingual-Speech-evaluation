@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.744,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.366973876953125,
+  "rms": 0.11699447289860941,
+  "sha256": "201e773999e87e02327a4528e6ab101724dc9c849c0b9465b9094093f8ad0e55",
+  "clip_id": "ta_006_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "இந்த கூடம் மிகவும் பெரியதாக இருக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:24.092564+00:00",
+  "raw_sha256": "541547e7e04b08d35febc44b8357139a85239488da2f041f879811aa21f58c0e",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.992,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.662811279296875,
+  "rms": 0.14194749272003943,
+  "sha256": "e9be62a2e3442da941a7a22a45b789fc6e769e6ace3d6c29ee23f543f769f1a1",
+  "clip_id": "ta_017_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "அவள் அழகான பட்டு புடவை அணிந்திருந்தாள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1354,
+  "generated_at_utc": "2026-11-08T09:25:32.496687+00:00",
+  "raw_sha256": "100d99680a85a17ece85a57bee0c8da0e83968d74e8b5ca85eea80319110826f",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

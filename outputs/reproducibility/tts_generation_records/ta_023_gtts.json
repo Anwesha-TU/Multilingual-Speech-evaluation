@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.24,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.40557861328125,
+  "rms": 0.113937475399703,
+  "sha256": "261d144a70d3cb4a1a969f48a04bfcf9d795e7e627788135852ccee7f4db6282",
+  "clip_id": "ta_023_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "என் தங்கை நாளை வீட்டிற்கு வருவாள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:46.638469+00:00",
+  "raw_sha256": "54530a7579d89b3969ae348ba0433456d65714a626c9b4b7ef5257c484ac056e",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

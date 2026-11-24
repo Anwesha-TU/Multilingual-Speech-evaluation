@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.392,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.889495849609375,
+  "rms": 0.14824572969820624,
+  "sha256": "40fd1aa2936c786ad69e32eccbd6c1bef9c9a59c5bd522d92b2e6da958cc8339",
+  "clip_id": "hi_023_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "मेरी बहन शाम को पुस्तकालय से वापस आएगी।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1360,
+  "generated_at_utc": "2026-11-08T09:24:48.895151+00:00",
+  "raw_sha256": "021e24112db7cbbade7ed765cf297722ac456a27b7e33e470efb112433d815dd",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

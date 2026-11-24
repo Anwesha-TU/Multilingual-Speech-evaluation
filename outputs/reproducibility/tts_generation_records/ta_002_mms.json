@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.656,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.6497802734375,
+  "rms": 0.12901914777355755,
+  "sha256": "955d2c2223348e4d9427499e0776e5c29d8e894dc5af8dc7ff10f940c3a264e9",
+  "clip_id": "ta_002_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "குழந்தை காலையில் பால் குடித்தது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1339,
+  "generated_at_utc": "2026-11-08T09:25:04.852882+00:00",
+  "raw_sha256": "5e8769dc3bbcb35efa00d596a9ed5427a820bf01b6a0f58cdfc56aa197ce4949",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

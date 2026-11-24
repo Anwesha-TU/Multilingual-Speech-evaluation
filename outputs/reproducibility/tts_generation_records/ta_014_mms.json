@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 2.624,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.7457275390625,
+  "rms": 0.13352796168137757,
+  "sha256": "9eb7ee03e4112729d04ebcfcfd7522d2ffaec40466f8a85cec0f439eae36a9e0",
+  "clip_id": "ta_014_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "வீரன் தனது வாள் கொண்டு போரிட்டான்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1351,
+  "generated_at_utc": "2026-11-08T09:25:27.386740+00:00",
+  "raw_sha256": "d7a37736c3ccfc0d090be5e8fbcdccd67d2c5e6027f1c8977f8d3a528c5a4ea9",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

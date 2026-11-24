@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.216,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.68377685546875,
+  "rms": 0.11529976101197341,
+  "sha256": "d9df21166e7a191fd614b91bc92b31898254aa0d530f638c1a690df7509e5a15",
+  "clip_id": "ta_010_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "என் சட்டையில் ஒரு சிறிய கறை உள்ளது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1347,
+  "generated_at_utc": "2026-11-08T09:25:19.548111+00:00",
+  "raw_sha256": "2ff7855058d2e8359cec45eed0d1a15f2ea44c5c822d720acaeadec8060bf99b",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.128,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.7960205078125,
+  "rms": 0.14852137209443703,
+  "sha256": "310dbbd9999cb2371c729b0c064f8a77eb60c3f6fb578499ff91c22aa0c7604d",
+  "clip_id": "hi_016_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "शतरंज में उसकी अगली चाल बहुत अच्छी थी।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:15.326211+00:00",
+  "raw_sha256": "d09d70fef39f6a12bf23427e8bf5428f443b118d11ba4c82364af4328bc46723",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

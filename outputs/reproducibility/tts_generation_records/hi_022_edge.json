@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.608,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.808319091796875,
+  "rms": 0.15594050679170987,
+  "sha256": "8a523bea6d81a14173eaef1f6a1ef8e191731767c8ebad5867299a068cde722e",
+  "clip_id": "hi_022_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "कृपया खिड़की खोल दीजिए और पंखा बंद कर दीजिए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:27.173140+00:00",
+  "raw_sha256": "01317c9e00103643f8a5d13bef24f16e34b0b21709aa2bcb5b5419a9fb7ba957",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

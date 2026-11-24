@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.808,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.514892578125,
+  "rms": 0.07858134217847244,
+  "sha256": "f3c3d4f77162381eb9fc3c8f9441fadfefee9f6ae33a20e889774a5586a00d04",
+  "clip_id": "ta_022_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "தயவுசெய்து கதவை மெதுவாக மூடுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:22.740390+00:00",
+  "raw_sha256": "659783ae3cc3351828db8ac97dacfe82361e8789ab252e164fd28cc6c9917d72",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

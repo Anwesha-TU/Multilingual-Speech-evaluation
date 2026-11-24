@@ -1,0 +1,12 @@
+language,criterion,clip_a,clip_b,rater_1,rater_2,human_direction,predicted_difference,correct
+hi,naturalness,hi_002_edge,hi_002_gtts,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,1,-0.5281040668487549,0
+hi,naturalness,hi_005_edge,hi_005_gtts,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,1,-0.20661258697509766,0
+hi,naturalness,hi_019_edge,hi_019_gtts,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,1,-0.25757932662963867,0
+hi,naturalness,hi_019_edge,hi_019_mms,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,1,-0.007158994674682617,0
+hi,naturalness,hi_020_gtts,hi_020_mms,r_b6322a0b-6294-479b-b757-15895170dd9c,r_f4e5edc9-8c44-4edb-ace4-f01db8da463d,1,0.594456672668457,1
+hi,naturalness,hi_022_edge,hi_022_mms,r_06ab16d3-4a0d-4bb4-9afb-94bff8c96f17,r_b6322a0b-6294-479b-b757-15895170dd9c,1,-0.21407532691955566,0
+hi,naturalness,hi_027_gtts,hi_027_mms,r_b16d0c2f-a551-4bff-9144-0d31193961d0,r_b6322a0b-6294-479b-b757-15895170dd9c,1,0.2679166793823242,1
+hi,naturalness,hi_030_edge,hi_030_mms,r_b16d0c2f-a551-4bff-9144-0d31193961d0,r_b6322a0b-6294-479b-b757-15895170dd9c,1,0.361968994140625,1
+ta,naturalness,ta_024_edge,ta_024_gtts,r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a,r_e5fd48ac-ba90-4859-b337-e0a6840d74e8,1,-0.22893977165222168,0
+ta,naturalness,ta_027_edge,ta_027_mms,r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a,r_e5fd48ac-ba90-4859-b337-e0a6840d74e8,1,-0.25705504417419434,0
+ta,naturalness,ta_028_edge,ta_028_mms,r_5aa7c06e-fde6-4feb-ace7-b47fe0b7335a,r_e5fd48ac-ba90-4859-b337-e0a6840d74e8,-1,-0.4175875186920166,1

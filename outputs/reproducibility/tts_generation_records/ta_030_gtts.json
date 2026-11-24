@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.128,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.46209716796875,
+  "rms": 0.1176071457001637,
+  "sha256": "3120bdf3bcae55204d380551841b5edb2bdc9d2b921b59166b0c15de5180edaa",
+  "clip_id": "ta_030_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:53.919447+00:00",
+  "raw_sha256": "112acb007548ae2d843bdf73218e87961fe829e1a3fb8949831b102b5a39040d",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

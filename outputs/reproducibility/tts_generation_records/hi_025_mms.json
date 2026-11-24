@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.488,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.909210205078125,
+  "rms": 0.15067110820852897,
+  "sha256": "abee6fb8d4e875532262113c3511888b0072a71171cd97ae98c23d7279db5e71",
+  "clip_id": "hi_025_mms",
+  "system_id": "mms",
+  "language": "Hindi",
+  "text": "क्या तुमने मेज पर रखी मेरी किताब देखी है?",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-hin",
+    "revision": "1d83b223ec78e30b944f7d96bd117eb3d7023303",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1362,
+  "generated_at_utc": "2026-11-08T09:24:52.082130+00:00",
+  "raw_sha256": "4fe46dde7d5e497b40b233dab559bf6e8a7932bc32866a71e3317b6424d6a920",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

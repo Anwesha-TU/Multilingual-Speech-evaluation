@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.032,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.841339111328125,
+  "rms": 0.156155558009912,
+  "sha256": "840a7ff5dc65420fcd37cb3e8bca448557d91636ccde3818efd433ad66dee5c6",
+  "clip_id": "hi_020_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "आँगन की बेल पर नए पत्ते आए हैं।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:23.642260+00:00",
+  "raw_sha256": "dc4833c623eea554583e12b2bbca528cb6304c28e85624043502f1ea6f9c0c7d",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

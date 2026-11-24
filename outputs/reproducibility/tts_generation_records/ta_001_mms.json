@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.232,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.717010498046875,
+  "rms": 0.11283634774525683,
+  "sha256": "04c75079532c210584b5faa07e2c27b78b6413a6642a2e58b307893b9a50509f",
+  "clip_id": "ta_001_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "என் பல் இன்று மிகவும் வலிக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1338,
+  "generated_at_utc": "2026-11-08T09:23:40.994554+00:00",
+  "raw_sha256": "b49c2fb45002d501aada250b91b6beaf5231716907c4bdf70de47c53b23561bb",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

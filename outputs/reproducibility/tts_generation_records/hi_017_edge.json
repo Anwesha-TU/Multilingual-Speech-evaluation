@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.696,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.8505859375,
+  "rms": 0.14822983647605803,
+  "sha256": "fc1420dc64b15215b0256b89783678cd15724b639018b96aa5d95d326008605d",
+  "clip_id": "hi_017_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "आज का दिन हमारे लिए खास है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:17.598901+00:00",
+  "raw_sha256": "c4efd1b59429912269882ef5fdd8045a86a72e9a1392cfc2f93c4f8c5b22bb89",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

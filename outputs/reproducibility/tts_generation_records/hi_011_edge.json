@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.936,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.805755615234375,
+  "rms": 0.15110419758898505,
+  "sha256": "0a21ac670d76d8cfe16be6f7f7c5bd430992e42e8ff159daaff0c9e8b1841ee5",
+  "clip_id": "hi_011_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "इस डिब्बे में दस रंगीन पेंसिल हैं।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:06.021022+00:00",
+  "raw_sha256": "bdf25d2f4131f893d08278c680ade53d4f95221bd58cff18d1e150ed053799bc",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

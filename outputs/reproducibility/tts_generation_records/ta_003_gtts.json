@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.312,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.35418701171875,
+  "rms": 0.11197176855659859,
+  "sha256": "ad0b60cd206d578e711e77e225ecd6e7e77064e31b393958a5bd6f5411d8f4ac",
+  "clip_id": "ta_003_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "பாதையில் ஒரு பெரிய கல் கிடக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:21.647968+00:00",
+  "raw_sha256": "11971a3f18499c8dc68a3fcd005f0d4de7a16f625cc501272b695a7775450799",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

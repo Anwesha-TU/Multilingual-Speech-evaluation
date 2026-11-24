@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.096,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.492462158203125,
+  "rms": 0.12867351804621266,
+  "sha256": "27b1389432c9284fb0ec060e7dae5ad6b87099f3398db21ed40ff79f7726afcc",
+  "clip_id": "hi_020_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "आँगन की बेल पर नए पत्ते आए हैं।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:07.793727+00:00",
+  "raw_sha256": "953588ec3be66153f3ad2afc535b9ae5bafafee8aadb5d48a573e2a3e46db196",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

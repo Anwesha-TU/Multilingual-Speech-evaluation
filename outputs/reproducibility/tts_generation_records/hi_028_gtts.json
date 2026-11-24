@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.744,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.61865234375,
+  "rms": 0.10265916008792697,
+  "sha256": "42f1586cbfe73de5a5e87599b3dacaac7f0e8b5137f99e8cdb78e0c2fb99a5d7",
+  "clip_id": "hi_028_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "यह रास्ता सीधे पुराने बाजार तक जाता है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:16.495912+00:00",
+  "raw_sha256": "288ab2fb81ecc053b0b3a74d9e5b3efa504dd7f238b5ff7256c7b1efd5787574",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.792,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.5047607421875,
+  "rms": 0.09581511061368939,
+  "sha256": "b1a7d5b14078db05cc6a6855b42d97321c35898d771e388814fdbcba867de1f2",
+  "clip_id": "hi_021_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "सुबह की हवा ठंडी है और आकाश साफ है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:09.462657+00:00",
+  "raw_sha256": "cb5c45ac2b022913ad33e5e47776cfd649d4b6228fac563644a1d01e19dac042",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

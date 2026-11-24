@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.024,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.48590087890625,
+  "rms": 0.12967226167630025,
+  "sha256": "e040a32b905598e15dd66d15767a64f9a08f1460b27e86df7191bff1c507d3c9",
+  "clip_id": "hi_014_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "ठंड लगने पर दादी ने शाल ओढ़ ली।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:01.721228+00:00",
+  "raw_sha256": "e9bee1f1fc56c9c74ac3c4f9bfd2ed308fb0fdc6a1c4cfa149f7aede62b9eefb",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

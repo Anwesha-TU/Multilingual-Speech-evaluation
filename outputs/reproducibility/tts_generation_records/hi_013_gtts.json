@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.76,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.44146728515625,
+  "rms": 0.1025884618918829,
+  "sha256": "3c0e1825f737a4f2fa9e8bf838ce854e82ee8748d98eac90a976388c6a0fa085",
+  "clip_id": "hi_013_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "अगले साल हम नया घर बनाएँगे।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:59.232275+00:00",
+  "raw_sha256": "9c3a9ae926ac85863293dc6adcd35da2d958037b878f5b1724fc64cf82ff9cf1",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

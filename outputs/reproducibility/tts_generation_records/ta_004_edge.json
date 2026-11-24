@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.192,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.550994873046875,
+  "rms": 0.08610170074144552,
+  "sha256": "220827e0f346361646f8da84d11f31dfc88c409f915491ce9a0518650a76e490",
+  "clip_id": "ta_004_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "நீண்ட நேரம் நடந்ததால் என் கால் வலிக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:47.080091+00:00",
+  "raw_sha256": "3966b18a7ef79b7dbd149d925be85b138c1a5bcbb3f317f52ffd16378ed86530",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

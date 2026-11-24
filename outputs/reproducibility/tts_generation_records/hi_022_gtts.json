@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 4.128,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.452484130859375,
+  "rms": 0.09192935838798476,
+  "sha256": "53a331bf6635fe333c722ae6915fbfed8ad33c2d0c76cc72f82a67fea5d4efd2",
+  "clip_id": "hi_022_gtts",
+  "system_id": "gtts",
+  "language": "Hindi",
+  "text": "कृपया खिड़की खोल दीजिए और पंखा बंद कर दीजिए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "hi",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:10.513786+00:00",
+  "raw_sha256": "4a079a983a65b9aa2ef33ef9c4f8b7cf99ba7532679f23e45c53071ae93d7823",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.336,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.395172119140625,
+  "rms": 0.11337057033718126,
+  "sha256": "5d8b2000c5bc1d566d573029f58b664df1455c68bd9df4a0a8e125d96e0274a3",
+  "clip_id": "ta_001_gtts",
+  "system_id": "gtts",
+  "language": "Tamil",
+  "text": "என் பல் இன்று மிகவும் வலிக்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Google Translate TTS via gTTS",
+    "language": "ta",
+    "tld": "com",
+    "slow": false,
+    "google_cloud_tts_used": false,
+    "voice": "service default; named voice not selectable",
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:21:32.681347+00:00",
+  "raw_sha256": "4e2b363684597f0bfccaaac65be6543ec781490f0f4bc926af917b6627d1cd09",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

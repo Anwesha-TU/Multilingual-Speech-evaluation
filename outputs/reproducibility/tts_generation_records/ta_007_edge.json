@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 2.712,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.45263671875,
+  "rms": 0.0758664942936202,
+  "sha256": "bda173d16e9973f5b3d53643c8e9ddde3de52ae8a368772f0d6b4c49e4a71c82",
+  "clip_id": "ta_007_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "மழை வருவதால் குடை எடுத்துச் செல்லுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:53.310397+00:00",
+  "raw_sha256": "b7d9e09321b12b996a199c429c2b58d80727a2102f0f85ea2d35418c1cfe41e5",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

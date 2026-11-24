@@ -1,0 +1,27 @@
+{
+  "duration_seconds": 3.6,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.71771240234375,
+  "rms": 0.13008207382596354,
+  "sha256": "61e6425aa48c13c6ade4cfa6252bf04c4f10653953553fce5cbc1877ff3eb7ed",
+  "clip_id": "ta_028_mms",
+  "system_id": "mms",
+  "language": "Tamil",
+  "text": "இந்த சாலை நேராக சந்தைக்குச் செல்கிறது.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Meta MMS-TTS",
+    "model": "facebook/mms-tts-tam",
+    "revision": "e9cf59dae34f0f51e3b1842876a658e4516f9fe4",
+    "license": "CC-BY-NC-4.0",
+    "voice": "checkpoint default fixed voice",
+    "device": "cpu"
+  },
+  "seed": 1365,
+  "generated_at_utc": "2026-11-08T09:25:53.599015+00:00",
+  "raw_sha256": "821d600999360f6a1dd04b46ec248cc6147e7a877c0922237addc4ae04a4b92a",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

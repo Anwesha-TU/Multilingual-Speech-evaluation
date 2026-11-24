@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.528,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.765869140625,
+  "rms": 0.15960508489548253,
+  "sha256": "9d5949bbd2ee4d1d41a75ffde508295c75e9c667f918c732b4a05085a4c9c6f5",
+  "clip_id": "hi_018_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "हमें दीन लोगों की मदद करनी चाहिए।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:19.745454+00:00",
+  "raw_sha256": "8703cb227d942e300abdf95001c1bf3244b7820353430d696f71027b23ec1f4b",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

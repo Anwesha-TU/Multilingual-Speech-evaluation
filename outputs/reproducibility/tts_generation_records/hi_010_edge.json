@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.816,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.865875244140625,
+  "rms": 0.156505904770477,
+  "sha256": "19b770da18714efad2bd1d8bb2afdb1df41a0d9fab2fff2e696074183555b324",
+  "clip_id": "hi_010_edge",
+  "system_id": "edge",
+  "language": "Hindi",
+  "text": "यह बोतल अब पूरी तरह खाली है।",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "hi-IN-MadhurNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:22:04.335526+00:00",
+  "raw_sha256": "b7a897da5d409ac328d9679d29a9ab54c59d5dc4ab684b31fbaadcd2a732eebf",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}

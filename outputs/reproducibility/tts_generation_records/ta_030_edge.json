@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 3.384,
+  "sample_rate": 16000,
+  "channels": 1,
+  "sample_width_bits": 16,
+  "peak": 0.474395751953125,
+  "rms": 0.08699914792487212,
+  "sha256": "4cc9814e27aa61e7fd1b3e03a777017aab3f535fff3d6c30f72d98ea590b7ae1",
+  "clip_id": "ta_030_edge",
+  "system_id": "edge",
+  "language": "Tamil",
+  "text": "எல்லோரும் கேட்கும்படி கொஞ்சம் மெதுவாகப் பேசுங்கள்.",
+  "synthetic_reference": false,
+  "source": {
+    "service": "Microsoft Edge online TTS via edge-tts",
+    "voice": "ta-IN-ValluvarNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz",
+    "volume": "+0%",
+    "azure_api_used": false,
+    "server_model_revision": "not exposed"
+  },
+  "seed": null,
+  "generated_at_utc": "2026-11-08T09:23:39.529870+00:00",
+  "raw_sha256": "e5bb2d1bf654b9b85aaf556958bd720304409ba04fe48267d4be33b056e01547",
+  "native_review": "pending",
+  "selection": "first successful synthesis; retries only for exceptions"
+}
